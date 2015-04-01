@@ -27,5 +27,5 @@ We have use the Bottom up approach which is actually called the Hierarchical Agg
 The fourth layer evaluates the quality of the clusters produced by the third layer. We used entropy and purity as the quality measures of the clusters produced in third layer.
 
 ###Technologies Used
-*Python 2.7
-*Iron Python 2.7
+* Python 2.7
+* Iron Python 2.7
