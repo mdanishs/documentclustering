@@ -1,0 +1,49 @@
+﻿انوکھی/JJ اولمپکس/NNP میراتھن/NN
+۱۸۹۶/CD  ء/SYM کی/PSP اولمپکس/NNP
+میراتھن/NN میں/PSP صرف/JJ اکسٹھ/CD  کھلاڑیوں/NN نے/PSP حصہ/NN
+لیا/VBF جن/PRR میں/PSP سے/PSP بارہ/CD  یونانی/JJ تھے/VBF  ۔/PU 
+۱۹۰۸/CD  ء/SYM کی/PSP اولمپکس/NNP میں/PSP پچاس/CD  سے/PSP زائد/JJ
+ایتھلیٹوں/NN نے/PSP شرکت/NN کی/VBF جن/PRR میں/PSP جنوبی‌افریقہ/NNP
+،/PU  کینیا/NNP ،/PU  امریکہ/NNP کے/PSP کھلاڑی/NN اور/CC کچھ/Q
+یورپی/NN بھی/PRT شامل/JJ تھے/VBF  ۔/PU  ہر/JJ ملک/NN کے/PSP
+تماشائی/NN اپنے/APNA اپنے/APNA کھلاڑیوں/NN سے/PSP بڑی/JJ
+توقعات/NN لگائے/VBF بیٹھے/AUXA تھے/AUXT  ۔/PU  اٹلی/NNP کے/PSP
+شائقین/NN کو/PSP ڈورانڈوپیٹری/NNP کی/PSP صلاحیتوں/NN پر/PSP پورا/JJ
+اعتماد/NN تھا/VBF جو/PRR یورپ/NNP میں/PSP منعقدہ/JJ کئی/Q
+میراتھن/NN جیت/VBF چکا/AUXA تھا/AUXT  ۔/PU 
+اہل‌کینیڈا/NN کو/PSP
+یقین/NN تھا/VBF کہ/SC ان/PRP کا/PSP ریڈانڈین/JJ کھلاڑی/NN ،/PU 
+ٹام‌لانگ‌بوٹ/NNP یہ/PDM مقابلہ/NN جیت/VBF لے/AUXA گا/AUXT کیونکہ/SC
+اس/PRP نے/PSP گزشتہ/JJ سال/NN بوسٹن/NNP میراتھن/NN کا/PSP
+ریکارڈ/NN پانچ/CD  منٹ/NN بہتر/JJ بنایا/VBF تھا/AUXT  ۔/PU  برطانیہ/NNP
+کے/PSP بارہ/CD  کھلاڑیوں/NN نے/PSP میراتھن/NN میں/PSP حصہ/NN
+لیا/VBF  ۔/PU  برطانوی/JJ ذرائع/NN ابلاغ/NN بار/RB بار/RB دعویٰ/NN کر/VBF
+رہے/AUXP تھے/AUXT کہ/SC پہلی/OD بارہ/CD  پوزیشنیں/NN وہی/PDM
+حاصل/NN کریں/VBF گے/AUXT  ۔/PU  شائقین/NN کے/PSP اس/PRP
+جذباتی/JJ پس‌منظر/NN اور/CC جوش‌وخروش/NN کے/PSP عالم/NN میں/PSP
+دوڑ/NN کا/PSP آغاز/NN ہوا/VBF  ۔/PU 
+موسم/NN بہت/Q گرم/JJ اور/CC
+مرطوب/JJ تھا/VBF  ۔/PU  سڑکیں/NN کچی/JJ اور/CC عام/JJ ٹریفک/NN
+کے/PSP لیے/PSP بند/JJ نہیں/NEG کی/VBF گئی/AUXA تھیں/AUXT  ۔/PU 
+گردوغبار/NN کی/PSP وجہ/NN سے/PSP سانس/NN لینا/VBI دشوار/JJ
+تھا/VBF  ۔/PU  ان/PRP حالات/NN میں/PSP دوڑ/NN شروع/NN ہوئی/VBF  ۔/PU  برطانوی/JJ کھلاڑی/NN مقامی/JJ شائقین/NN کی/PSP زبردست/JJ
+تالیوں/NN کی/PSP گونج/NN میں/PSP دوڑنے/VBI لگے/AUXA  ۔/PU  ٹام/NNP
+چیک/NNP نے/PSP پہلا/OD میل/NN پانچ/CD  منٹ/NN ایک/CD  سیکنڈ/NN
+میں/PSP طے/NN کیا/VBF اور/CC پانچ/CD  میل/NN کے/PSP نشان/NN پر/PSP
+وہ/PRP سب/Q سے/PSP آگے/NN تھا/VBF  ۔/PU  تب/NN تک/PSP دوڑ/NN
+شروع/NN ہوئے/VBF ستائیس/CD  منٹ/NN اکیس/CD  سیکنڈ/NN ہو/VBF
+چکے/AUXA تھے/AUXT  ۔/PU  اس/PRP کے/PSP ہم‌وطن/JJ پرائس/NNP
+اور/CC لارڈ/NN ،/PU  جنوبی‌افریقہ/NNP کا/PSP حیفرون/NNP اور/CC
+اٹلی/NNP کا/PSP کھلاڑی/NN ،/PU  ڈورانڈوپیٹری/NNP اس/PRP کے/PSP
+پیچھے/NN پیچھے/NN تھے/VBF  ۔/PU 
+پانچ/CD  میل/NN دوڑنے/VBI
+کے/PSP بعد/NN کھلاڑیوں/NN کی/PSP رفتار/NN سُست/JJ ہو/VBF گئی/AUXA  ۔/PU  ایک/CD  جگہ/NN جیک/NNP مشروب/NN پینے/VBI کے/PSP لیے/PSP
+ذرا/JJ رکا/VBF تو/SC پیچھے/NN رہ/VBF گیا/AUXA  ۔/PU  کچھ/Q دیر/NN
+بعد/NN پرائس/NNP یکدم/RB آگے/NN نکل/VBF آیا/AUXA اور/CC لارڈ/NN
+پیچھے/NN رہ/VBF گیا/AUXA  ۔/PU  پندرھوریں/OD میل/NN میں/PSP
+حیفرون/NNP سب/Q سے/PSP آگے/NN تھا/VBF ،/PU  پرائس/NNP ہمت/NN
+ہار/VBF بیٹھا/AUXA تھا/AUXT  ۔/PU  حیفرون/NNP کو/PSP تقریباً/RB دو/CD 
+منٹ/NN کی/PSP برتری/NN حاصل/NN ہو/VBF گئی/AUXA تاہم/SC اس/PRP
+کے/PSP پیچھے/NN آنے/VBI والوں/VALA نے/PSP سبقت/NN کے/PSP
+لیے/PSP تگ‌ودو/NN جاری/JJ رکھی/VBF  ۔/PU 
+

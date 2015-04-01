@@ -1,0 +1,48 @@
+﻿مسجد/NN نبویؐ/NNP کے/PSP منبر/NN اور/CC روضۂرسولؐ/NNP
+کے/PSP درمیان/NN ایک/CD  خوبصورت/JJ اور/CC خوش‌پوش/JJ نوجوان/NN
+نہایت/Q سکون/NN اور/CC سلیقے/NN کے/PSP ساتھ/NN نماز/NN پڑھ/VBF
+رہا/AUXP تھا/AUXT  ۔/PU  وہ/PRP دیر/NN تک/PSP اسے/PRP تکتا/VBF
+رہا/AUXP  ۔/PU  جب/NN اس/PRP نے/PSP نماز/NN ختم/NN کر/VBF
+لی/AUXA تو/SC اس/PRP نے/PSP آگے/NN بڑھ/VBF کر/SCK اجنبی/NN
+سے/PSP پوچھا/VBF :/PU  "/PU  یا/INJ اخی/NN !/PU  آپ/PRP کہاں/PRP
+کے/PSP رہنے/VBI والے/VALA ہیں/VBF "/PU  "/PU  میرا/PRS وطن/NN
+عراق/NNP ہے/VBF "/PU   ۔/PU  اجنبی/JJ نوجوان/NN نے/PSP نہایت/Q
+شائستگی/NN سے/PSP جواب/NN دیا/VBF  ۔/PU 
+"/PU  عراق/NNP کا/PSP کون/PRP
+سا/PRT علاقہ/NN ؟/PU  "/PU  کوفہ/NNP "/PU  کوفے/NNP کا/PSP نام/NN
+سنتے/VBF ہی/PRT محمد/NNP بن/NN ادریس/NNP کے/PSP ذہن/NN میں/PSP
+کچھ/Q باتیں/NN تازہ/JJ ہو/VBF گئیں/AUXA  ۔/PU  اس/PRP نے/PSP
+اجنبی/NN سے/PSP پوچھا/VBF :/PU  "/PU  آپ/PRP جانتے/VBF ہیں/AUXT
+کہ/SC آج/NN کل/NN کوفہ/NNP میں/PSP کتاب‌/NN و/CC سنت/NN کا/PSP
+سب/Q سے/PSP بڑا/JJ عالم/NN کون/PRP ہے/VBF ؟/PU  "/PU  امام/NN
+ابوحنیفہؒ/NNP کے/PSP شاگرد/NN محمد/NNP بن/NN حسنؒ/NNP اور/CC
+ابویوسفؒ/NNP ،/PU  یہ/PDM دونوں/OD کوفے/NNP کے/PSP قابل‌اعتماد/JJ
+مفتی/NN ہیں/VBF "/PU   ۔/PU 
+"/PU  کیا/RB آپ/PRP مجھے/PRP بتا/VBF
+سکیں/AUXM گے/AUXT کہ/SC کوفہ/NNP کو/PSP آپ/PRP کی/PSP
+واپسی/NN کب/NN ہو/VBF گی/AUXT ؟/PU  "/PU  جی/INJ !/PU  ہم/PRP کل/NN
+صبح/NN سویرے/NN ہی/PRT یہاں/NN سے/PSP روانہ/NN ہو/VBF
+جائیں/AUXA گے/AUXT "/PU   ۔/PU 
+جونہی/RB یہ/PDM بات/NN اسے/PRP
+معلوم/NN ہوئی/VBF ،/PU  وہ/PRP سیدھا/RB امام/NN مالکؒ/NNP کے/PSP
+پاس/NN حاضر/JJ ہوا/VBF اور/CC عرض/NN کی/VBF :/PU  "/PU  استاد/NN
+مکرم/JJ !/PU  آپ/PRP کو/PSP تو/PRT معلوم/NN ہی/PRT ہے/VBF کہ/SC
+میں/PRP گھر/NN سے/PSP صرف/JJ اس/PRP لیے/PSP نکلا/VBF
+ہوں/AUXT کہ/SC زیادہ/Q سے/PSP زیادہ/Q علم/NN حدیث/NN حاصل/NN
+کروں/VBF  ۔/PU  سنا/VBF ہے/AUXT ،/PU  کوفہ/NNP میں/PSP بھی/PRT
+حدیث/NN اور/CC فقہ/NN کے/PSP بڑے/JJ بڑے/JJ علما/NN موجود/JJ
+ہیں/VBF  ۔/PU  جی/NN چاہتا/VBF ہے/AUXT کہ/SC ان/PRP سے/PSP
+بھی/PRT کسب‌فیض/NN کروں/VBF  ۔/PU  ایک/CD  طرف/NN میری/PRS
+والدہ/NN مکے/NNP میں/PSP میری/PRS واپسی/NN کی/PSP منتظر/JJ
+ہیں/AUXT دوسری/OD طرف/NN تحصیل‌علم/NN کا/PSP ایک/CD  موقع/NN
+بھی/PRT ہاتھ/NN آیا/VBF ہے/AUXT کہ/SC کل/NN ہی/PRT یہاں/NN سے/PSP
+عراق/NNP کا/PSP ایک/CD  قافلہ/NN روانہ/NN ہو/VBF رہا/AUXP ہے/AUXT  ۔/PU  میں/PRP اہل‌قافلہ/NN کی/PSP رفاقت/NN میں/PSP آسانی/NN سے/PSP
+عراق/NNP پہنچ/VBF سکتا/AUXM ہوں/AUXT ،/PU  فرمائیے/VBF کہ/SC
+واپس/NN والدہ/NN کی/PSP خدمت/NN میں/PSP پہنچ/VBF جاؤں/AUXA یا/CC
+علم/NN کی/PSP طلب/NN و/CC جستجو/NN میں/PSP آگے/NN بڑھوں/VBF ؟/PU  "/PU 
+"/PU  برخوردار/NN علم/NN کے/PSP فائدے/NN کبھی/NN ختم/NN نہیں/NEG
+ہوتے/VBF  ۔/PU  تم/PRP تو/PRT جانتے/VBF ہو/AUXT کہ/SC طالب‌علم/NN
+کے/PSP لیے/PSP فرشتے/NN بھی/PRT پر/NN بچھاتے/VBF ہیں/AUXT  ۔/PU 
+تم/PRP کوفہ/NNP ضرور/RB جاؤ/VBF  ۔/PU  ہماری/PRS دعائیں/NN
+تمھارے/PRP ساتھ/NN ہیں/VBF  ۔/PU 
+

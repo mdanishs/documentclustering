@@ -1,0 +1,43 @@
+﻿ماہرین/NN نے/PSP یہ/PDM خوشخبری/NN سنائی/VBF ہے/AUXT کہ/SC
+اگلے/JJ چار/CD  پانچ/CD  برسوں/NN میں/PSP دنیا/NN کی/PSP خاطرخواہ/JJ
+بجلی/NN شمسی/JJ توانائی/NN سے/PSP پیدا/NN ہونے/VBI لگے/AUXA
+گی/AUXT  ۔/PU  وجہ/NN یہ/PDM ہے/VBF کہ/SC چینی/JJ ادارے/NN کم/Q
+قیمت/NN پر/PSP وہ/PDM خاص/JJ جزو/NN بنانے/VBI لگیں/AUXA گے/AUXT
+جو/PRR شیشے/NN کے/PSP شمسی/JJ تختوں/NN (/PU  Solar/FF
+Panels/FF )/PU  کی/PSP تیاری/NN میں/PSP استعمال/NN ہوتا/VBF
+ہے/AUXT  ۔/PU 
+
+چونکہ/SCP روزبروز/RB تیل/NN اور/CC قدرتی/JJ گیس/NN کی/PSP
+قیمتیں/NN بڑھ/VBF رہی/AUXP ہیں/AUXT لہٰذا/SC صنعت‌کار/NN اور/CC
+سرمایہ‌کار/NN شمسی/JJ توانائی/NN کی/PSP طرف/NN متوجہ/NN ہونے/VBI
+لگے/AUXA ہیں/AUXT تاہم/SC ابھی/NN دنیا/NN کی/PSP صرف/JJ
+ایک/CD  فیصد/JJ بجلی/NN ہی/PRT شمسی/JJ توانائی/NN کے/PSP ذریعے/NN
+جنم/NN لیتی/VBF ہے/AUXT ،/PU  وجہ/NN یہ/PDM ہے/VBF کہ/SC
+اِسے/PRP حاصل/NN کرنے/VBI میں/PSP عام/JJ بجلی/NN کی/PSP نسبت/NN
+ایک/CD  گھر/NN کو/PSP دُگنا/QM خرچ/NN کرنا/VBI پڑتا/AUXA ہے/AUXT  ۔/PU  لیکن/SCP ماہرین/NN کا/PSP کہنا/VBI ہے/AUXT کہ/SC اگلے/JJ چند/Q
+برس/NN میں/PSP پولی‌سلیکون/NNP (/PU  Polysilicon/FF )/PU  سستا/JJ
+ہونے/VBI کے/PSP باعث/NN لاگت/NN چالیس/CD  فیصد/JJ تک/PSP کم/Q
+ہو/VBF سکتی/AUXM ہے/AUXT  ۔/PU 
+پولی‌سلیکون/NNP مادے/NN کی/PSP
+مدد/NN ہی/PRT سے/PSP شمسی/JJ تختے/NN سورج/NNP کی/PSP روشنی/NN
+کو/PSP بجلی/NN میں/PSP تبدیل/NN کرتے/VBF ہیں/AUXT  ۔/PU  مزیدبراں/RB
+کمپیوٹر/NN چپوں/NN (/PU  Chips/FF )/PU  کی/PSP تیاری/NN میں/PSP
+بھی/PRT اِسے/PRP خاص/JJ جزو/NN کی/PSP حیثیت/NN حاصل/NN
+ہے/AUXT  ۔/PU  اب/NN چین/NNP کے/PSP علاوہ/PSP امریکا/NNP ،/PU 
+جاپان/NNP اور/CC جرمنی/NNP کے/PSP درجن/NN بھر/JJ ادارے/NN
+پولی‌سلیکون/NNP بنانے/VBI کے/PSP منصوبے/NN بنا/VBF رہے/AUXP
+ہیں/AUXT  ۔/PU  یہ/PDM مادہ/NN ریت/NN کو/PSP مخصوص/JJ کیمیائی/JJ
+طریقوں/NN سے/PSP گزار/VBF کر/SCK حاصل/NN کیا/VBF جاتا/AUXA
+ہے/AUXT  ۔/PU  یہ/PDM مراحل/NN بہت/Q پیچیدہ/JJ ہیں/PRT ،/PU  اسی/PRP
+لیے/PSP عام/JJ ادارے/NN میں/PSP انجام/NN نہیں/NEG پا/VBF
+سکتے/AUXM  ۔/PU 
+قابل/JJ ذکر/NN بات/NN یہ/PDM ہے/VBF کہ/SC
+جن/PRD علاقوں/NN میں/PSP سورج/NNP سال/NN کے/PSP بیشتر/Q
+حصّے/NN چمکتا/VBF رہتا/AUXM ہے/AUXT ،/PU  وہاں/NN شمسی/JJ
+توانائی/NN سے/PSP بجلی/NN بنانے/VBI کی/PSP لاگت/NN دیگر/JJ
+طریقوں/NN جتنی/Q ہی/PRT آتی/VBF ہے/AUXT  ۔/PU  اگر/SCP شمسی/JJ
+تختوں/NN کی/PSP قیمت/NN کم/Q ہو/VBF گئی/AUXA ،/PU تو/SC یقینا/RB
+ان/PDM علاقوں/NN میں/PSP بھی/PRT اس/PDM طریقے/NN سے/PSP
+بجلی/NN بنائی/VBF جا/AUXA سکے/AUXM گی/AUXT جہاں/NN سورج/NNP
+زیادہ/Q نہیں/NEG چمکتا/VBF  ۔/PU 
+ ۔/PU 

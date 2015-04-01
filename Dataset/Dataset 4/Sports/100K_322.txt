@@ -1,0 +1,44 @@
+﻿ملٹی‌نیشنل/JJ کمپنیوں/NN کی/PSP حکمت‌عملی/NN
+کرکٹ/NNP میں/PSP دو/CD 
+بڑی/JJ خرابیاں/NN تھیں/VBF  ۔/PU  ایک/CD  تو/PRT یہ/PDM موسمی/JJ
+کھیل/NN تھا/VBF ،/PU  یہ/PRP زیادہ/Q سردی/NN اور/CC زیادہ/Q گرمی/NN
+میں/PSP نہیں/NEG کھیلا/VBF جا/AUXA سکتا/AUXM ،/PU  دوسرے/OD
+یہ/PDM امراء/NN کا/PSP کھیل/NN تھا/VBF ،/PU  اس/PRP کے/PSP
+لیے/PSP بڑا/JJ میدان/NN ،/PU  وردی/NN اور/CC مہنگا/JJ سامان/NN
+درکار/JJ ہوتا/VBF ہے/AUXT  ۔/PU  ان/PDM ملٹی‌نیشنل/JJ کمپنیوں/NN
+نے/PSP سب/Q سے/PSP پہلے/NN اسے/PRP موسم/NN کے/PSP بندھن/NN
+سے/PSP آزاد/JJ کیا/VBF ،/PU  انہوں/PRP نے/PSP اسے/PRP گرم/JJ
+علاقوں/NN سے/PSP نکال/VBF کر/SCK ٹھنڈے/JJ اور/CC ٹھنڈے/JJ
+خطوں/NN سے/PSP گرم/JJ علاقوں/NN تک/PSP پہنچایا/VBF  ۔/PU  انہوں/PRP
+نے/PSP سوچا/VBF پوری/JJ دنیا/NN کے/PSP موسم/NN ایک/CD  جیسے/PRR
+نہیں/NEG رہتے/VBF ،/PU  جب/NN یورپ/NNP میں/PSP برف‌باری/NN
+ہو/VBF رہی/AUXP ہوتی/AUXA ہے/AUXT اس/PDM وقت/NN خلیج/NNP
+کا/PSP موسم/NN نیم‌گرم/JJ ہوتا/VBF ہے/AUXT  ۔/PU  جب/NN عرب/JJ
+ممالک/NN ،/PU  افریقہ/NNP اور/CC برصغیر/NNP میں/PSP گرمی/NN
+ہوتی/VBF ہے/AUXT اس/PDM وقت/NN آسٹریلیا/NNP اور/CC یورپ/NNP
+کے/PSP ٹھنڈے/JJ علاقوں/NN سے/PSP کرکٹ/NNP ٹیمیں/NN گرم/JJ
+علاقوں/NN میں/PSP منتقل/JJ کر/VBF دی/AUXA جائیں/AUXA  ۔/PU  اس/PRP
+کے/PSP نتیجے/NN میں/PSP کرکٹ/NNP ہر/JJ موسم/NN میں/PSP کھیلی/VBF
+جانے/VBI لگی/AUXA  ۔/PU  دوسرا/OD ان/PDM ملٹی‌نیشنل/JJ کمپنیوں/NN
+نے/PSP دیکھا/VBF کہ/SC یہ/PDM کھیل/NN مہنگا/JJ ہے/VBF  ۔/PU 
+ان/PRP کے/PSP کھلاڑیوں/NN کو/PSP وقت/NN اور/CC پیسہ/NN چاہیے/VBF
+جبکہ/CC امیر/JJ طبقے/NN کے/PSP پاس/NN پیسہ/NN تو/PRT ہوتا/VBF
+ہے/AUXT لیکن/CC وقت/NN نہیں/NEG ہوتا/VBF  ۔/PU  یہ/PDM لوگ/NN
+اگر/SC کرکٹ/NNP کھیلتے/VBF ہیں/AUXT ،/PU  وہ/PRP اسے/PRP
+پیشے/NN کے/PSP طور/NN پر/PSP نہیں/NEG لیتے/VBF ،/PU  لہٰذا/SC
+کرکٹ/NNP اس/PDM وقت/NN تک/PSP عالمی/JJ کھیل/NN نہیں/NEG بن/VBF
+سکتا/AUXM جب/NN تک/PSP عام/JJ شہری/NN اس/PRP کو/PSP نہیں/NEG
+اپناتے/VBF ،/PU  ملٹی‌نیشنل/JJ کمپنیوں/NN نے/PSP کرکٹ/NNP کو/PSP
+عام/JJ شہریوں/NN تک/PSP پہنچانے/VBI کے/PSP لیے/PSP اسے/PRP
+مالی/JJ معاونت/NN مہیا/NN کرنا/VBI شروع/NN کر/VBF دی/AUXA ،/PU 
+انہوں/PRP نے/PSP دنیا/NN بھر/JJ میں/PSP کرکٹ/NNP کے/PSP میدان/NN
+بنائے/VBF ،/PU  دیہاتوں/NN اور/CC قصبوں/NN سے/PSP لڑکوں/NN کو/PSP
+جمع/NN کیا/VBF ،/PU  انعامی/JJ اسکیموں/NN کے/PSP ذریعے/NN انہیں/PRP
+کرکٹ/NNP کی/PSP طرف/NN راغب/NN کیا/VBF  ۔/PU  کرکٹ/NNP کے/PSP
+کھلاڑیوں/NN کو/PSP ان/PRP کا/PSP ہیرو/NN بنایا/VBF ،/PU  انہیں/PRP
+نوکریاں/NN دلوائیں/VBF ،/PU  جیب‌خرچ/NN دیا/VBF اور/CC کرکٹ/NNP
+کھیلنے/VBI پر/PSP لگا/VBF دیا/AUXA  ۔/PU  ساتھ/NN ہی/PRT ٹیلیویژن/NN
+،/PU  ریڈیو/NN اور/CC اخبارات/NN پر/PSP ان/PRP کی/PSP تشہیر/NN
+کا/PSP بندوبست/NN کیا/VBF ،/PU  یوں/RB پانچ/CD  دس/CD  برسوں/NN
+میں/PSP کرکٹ/NNP پوری/JJ دنیا/NN کا/PSP کھیل/NN بن/VBF گیا/AUXA  ۔/PU 
+ 

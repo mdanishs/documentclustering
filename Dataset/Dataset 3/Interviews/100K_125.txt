@@ -1,0 +1,49 @@
+﻿س/NN :/PU  عدالت/NN جانے/VBI کا/PSP وقت/NN عموماً/RB کیا/RB ہوتا/VBF
+تھا/AUXT ؟/PU 
+ج/NN :/PU  عدالتی/JJ اوقات/NN سے/PSP دس/CD  پندرہ/CD 
+منٹ/NN قبل/NN روانہ/NN ہوتے/VBF تھے/AUXT  ۔/PU  پہلے/NN بگھی/NN
+میں/PSP جاتے/VBF پھر/RB آخری/JJ زمانے/NN میں/PSP گاڑی/NN
+خرید/VBF لی/AUXA تھی/AUXT  ۔/PU 
+س/NN :/PU  وکالت/NN کا/PSP کیا/RB
+عالم/NN تھا/VBF ،/PU  بہت/Q کام/NN کرتے/VBF یا/CC تھوڑا/Q ؟/PU 
+ج/NN :/PU  وکالت/NN میں/PSP ایک/CD  حد/NN سے/PSP زیادہ/Q اپنے/APNA
+آپ/APNA کو/PSP مصروف/JJ نہیں/NEG ہونے/VBI دیتے/AUXA تھے/AUXT
+ ۔/PU  عام/JJ طور/NN پر/PSP یوں/RB ہوتا/VBF کہ/SC پانچ/CD  سو/CD 
+روپے/NN کے/PSP برابر/JJ فیس/NN کے/PSP مقدمے/NN آ/VBF جاتے/AUXA
+،/PU تو/SC مزید/JJ نہیں/NEG لیتے/VBF تھے/AUXT  ۔/PU  دیگر/JJ
+سائلین/NN کو/PSP اگلے/JJ ماہ/NN آنے/VBI کا/PSP کہہ/VBF دیتے/AUXA  ۔/PU  اگر/SCP مہینے/NN کے/PSP پہلے/OD تین/CD  چار/CD  دنوں/NN
+میں/PSP چار/CD  پانچ/CD  سو/CD  روپے/NN کا/PSP کام/NN مل/VBF
+جاتا/AUXA تو/SC باقی/JJ سارا/JJ مہینہ/NN مزید/JJ کوئی/PDM مقدمہ/NN
+نہیں/NEG لیتے/VBF تھے/AUXT  ۔/PU 
+س/NN :/PU  یہ/PRP پانچ/CD  سو/CD 
+روپے/NN کی/PSP حد/NN کیوں/RB لگائی/VBF گئی/AUXA تھی/AUXT ؟/PU 
+ج/NN :/PU  ان/PRP کا/PSP تخمینہ/NN تھا/VBF کہ/SC انہیں/PRP ماہانہ/JJ
+اخراجات/NN کے/PSP لیے/PSP اس/PRP سے/PSP زیادہ/Q پیسوں/NN
+کی/PSP ضرورت/NN نہیں/NEG پڑے/VBF گی/AUXT  ۔/PU  اس/PDM
+زمانے/NN میں/PSP اس/PDM رقم/NN میں/PSP گھر/NN کا/PSP کرایہ/NN ،/PU  ملازموں/NN کی/PSP تنخواہیں/NN ،/PU  منشی/NN کی/PSP تنخواہ/NN
+اور/CC گھر/NN کے/PSP عمومی/JJ اخراجات/NN سب/Q شامل/JJ
+تھے/VBF  ۔/PU  یہ/PRP ان/PDM دنوں/NN کی/PSP بات/NN ہے/VBF
+جب/NN علامہ/NNP صاحب/NN انارکلی/NNP اور/CC میکلوڈ/NNP روڈ/NN
+پر/PSP رہا/VBF کرتے/AUXA تھے/AUXT  ۔/PU 
+
+س/NN :/PU  علامہ/NNP
+نے/PSP کتنے/Q عرصے/NN تک/PSP وکالت/NN کی/VBF ؟/PU 
+ج/NN :/PU 
+جب/NN تک/PSP انہیں/PRP گلے/NN کی/PSP بیماری/NN لاحق/NN نہیں/NEG
+ہوئی/VBF وہ/PRP وکالت/NN کرتے/VBF رہے/AUXP  ۔/PU  یہ/PRP اندازاً/RB
+۳۳/CD   ۔/PU  ۱۹۳۲/CD  ء/SYM کا/PSP زمانہ/NN تھا/VBF  ۔/PU 
+س/NN :/PU 
+گلے/NN کی/PSP بیماری/NN کیسے/RB شروع/NN ہوئی/VBF ؟/PU 
+ج/NN :/PU 
+وہ/PRP عید/NN کی/PSP نماز/NN پڑھنے/VBI گئے/AUXA  ۔/PU  سردی/NN
+کا/PSP موسم/NN تھا/VBF ،/PU  گھر/NN واپس/NN آ/VBF کر/SCK
+سویوں/NN پر/PSP دہی/NN ڈال/VBF کر/SCK کھایا/VBF جو/PRR انہیں/PRP
+بہت/Q مرغوب/JJ تھا/VBF  ۔/PU  اگلے/JJ ہی/PRT روز/NN گلے/NN
+کی/PSP تکلیف/NN شروع/NN ہو/VBF گئی/AUXA  ۔/PU  اس/PDM دن/NN
+رات/NN کے/PSP دو/CD  اڑھائی/FR بجے/NN تک/PSP کھانستے/VBF
+رہے/AUXP  ۔/PU  پھر/SCP ان/PRP کی/PSP آواز/NN بیٹھ/VBF گئی/AUXA
+اور/CC وفات/NN تک/PSP یہی/PDM کیفیت/NN رہی/VBF  ۔/PU 
+س/NN :/PU 
+اب/NN ذرا/JJ ان/PRP کے/PSP روزمرہ/NN کے/PSP معمول/NN پر/PSP
+دوبارہ/RB بات/NN ہو/VBF جائے/AUXA  ۔/PU  عدالت/NN سے/PSP لوٹ/VBF
+کر/SCK آتے/VBF تو/SC کیا/RB کیا/VBF کرتے/AUXA تھے/AUXT ؟/PU 

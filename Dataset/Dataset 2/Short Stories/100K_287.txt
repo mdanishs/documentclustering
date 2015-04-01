@@ -1,0 +1,12 @@
+﻿امین/NNP نے/PSP ایم‌بی‌اے/NNP کا/PSP امتحان/NN اعلیٰ/JJ نمبروں/NN میں/PSP پاس/NN کر/VBF لیا/AUXA تھا/AUXT  ۔/PU  اب/NN اسے/PRP پوری/JJ امید/NN تھی/VBF کہ/SC وہ/PRP اپنی/APNA ماں/NN اور/CC بہنوں/NN کا/PSP سہارا/NN بن/VBF جائے/AUXA گا/AUXT  ۔/PU  ماں/NN نے/PSP محنت/NN کر/VBF کے/SCK اور/CC اپنا/APNA پیٹ/NN کاٹ/VBF کر/SCK اس/PRP کی/PSP تعلیم/NN اور/CC دیگر/JJ اخراجات/NN کا/PSP انتظام/NN کیا/VBF تھا/AUXT  ۔/PU 
+امین/NNP اگلے/JJ روز/NN ہی/PRT سے/PSP نوکری/NN تلاش/NN کرنے/VBI لگا/AUXA  ۔/PU  اس/PRP نے/PSP ہر/JJ طرف/NN ہاتھ/NN پیر/NN مارے/VBF مگر/CC کچھ/Q بن/VBF نہ/NEG پڑا/AUXA  ۔/PU  اس/PRP کے/PSP پاس/NN نہ/NEG سفارش/NN تھی/VBF اور/CC کسی/PRP سے/PSP جان‌پہچان/NN  ۔/PU 
+ایک/CD  دن/NN وہ/PRP اپنے/APNA خیالات/NN میں/PSP گم/JJ باغ/NN میں/PSP بنچ/NN پر/PSP بیٹھا/VBF تھا/AUXT کہ/SC ایک/CD  شخص/NN اس/PRP کے/PSP قریب/NN آ/VBF بیٹھا/AUXA  ۔/PU 
+''/PU  معلوم/NN ہوتا/VBF ہے/AUXT آپ/PRP کچھ/Q پریشان/JJ ہیں/VBF  ۔/PU  "/PU  اس/PRP شخص/NN نے/PSP بہت/Q نرم/JJ آواز/NN میں/PSP امین/NNP کو/PSP مخاطب/JJ کیا/VBF  ۔/PU 
+''/PU  بس/NN جی/NN نوکری/NN ہی/PRT نہیں/NEG ملتی/VBF  ۔/PU  ہر/JJ طرف/NN رشوت/NN اور/CC سفارش/NN کا/PSP دور/NN دورہ/NN ہے/VBF  ۔/PU  "/PU  ہم‌دردی/NN کے/PSP دو/CD  بول/NN سنتے/VBF ہی/PRT امین/NNP چھلک/VBF پڑا/AUXA  ۔/PU 
+''/PU  بات/NN تو/PRT آپ/PRP کی/PSP ٹھیک/JJ ہے/VBF  ۔/PU  ان/PDM حالات/NN میں/PSP معاشرے/NN سے/PSP اپنا/APNA حق/NN چھین/VBF لینا/AUXA چاہیے/AUXM  ۔/PU  "/PU  اس/PDM شخص/NN نے/PSP سمجھایا/VBF  ۔/PU 
+''/PU  جی/NN میں/PRP تو/PRT ہر/JJ کام/NN کے/PSP لیے/PSP تیار/JJ ہوں/VBF پر/SC کام/NN ملے/VBF تو/SC سہی/PRT  ۔/PU  "/PU  امین/NNP نے/PSP شکستہ/JJ لہجے/NN میں/PSP جواب/NN دیا/VBF  ۔/PU 
+''/PU  کام/NN تو/PRT میں/PRP آپ/PRP کو/PSP دلا/VBF سکتا/AUXM ہوں/AUXT مگر/CC یہ/PRP رازداری/NN کا/PSP معاملہ/NN ہے/VBF  ۔/PU  "/PU  اس/PRP نے/PSP خفیف/JJ لہجے/NN میں/PSP کہا/VBF  ۔/PU 
+''/PU  آپ/PRP فکر/NN نہ/NEG کریں/VBF ،/PU  میں/PRP تیار/JJ ہوں/VBF  ۔/PU  "/PU  امین/NNP امید/NN سے/PSP بولا/VBF  ۔/PU 
+''/PU  تو/PRT پھر/RB آئیے/VBF  ۔/PU  "/PU  وہ/PDM شخص/NN بولا/VBF  ۔/PU  دونوں/OD اٹھ/VBF کر/SCK باغ/NN سے/PSP نکل/VBF آئے/AUXA  ۔/PU  پھر/SCP اس/PRP نے/PSP جب/NN امین/NNP کو/PSP کام/NN کی/PSP نوعیت/NN بتائی/VBF ،/PU تو/SC اس/PRP کے/PSP رونگٹے/NN کھڑے/JJ ہو/VBF گئے/AUXA  ۔/PU  لیکن/SCP منہ/NN مانگے/JJ معاوضے/NN کا/PSP سن/VBF کر/SCK اس/PRP نے/PSP کام/NN کی/PSP ہامی/NN بھر/VBF لی/AUXA  ۔/PU 
+امین/NNP نے/PSP بم/NN شام/NN کو/PSP بازار/NN میں/PSP رکھنا/VBI تھا/AUXT جو/PRR اس/PRP کی/PSP روانگی/NN کے/PSP آدھ/FR گھنٹے/NN بعد/NN پھٹنا/VBI تھا/AUXT لیکن/CC وہ/PRP دوپہر/NN کو/PSP ہی/PRT وہاں/NN پہنچ/VBF گیا/AUXA  ۔/PU 
+ 

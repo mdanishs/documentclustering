@@ -1,0 +1,47 @@
+﻿یہ/PRP جنوری/NNP ۱۹۷۱/CD  ء/SYM کی/PSP بات/NN ہے/VBF ،/PU 
+برطانیہ/NNP کی/PSP کرکٹ/NNP ٹیم/NN آسٹریلیا/NNP کا/PSP دورہ/NN
+کر/VBF رہی/AUXP تھی/AUXT  ۔/PU  ایشزسیریز/NNP کا/PSP تیسرا/OD
+میچ/NN میلبورن/NNP میں/PSP ہوا/VBF  ۔/PU  بارش/NN کے/PSP باعث/NN
+اس/PRP کے/PSP پہلے/OD تین/CD  دن/NN کوئی/PDM کھیل/NN نہ/NEG ہو/VBF
+سکا/AUXM  ۔/PU  تماشائیوں/NN کی/PSP بوریت/NN دور/NN کرنے/VBI
+کے/PSP لیے/PSP آسٹریلوی‌کرکٹ‌بورڈ/NNP نے/PSP مہمانوں/NN کے/PSP
+سامنے/NN دو/CD  تجاویز/NN رکھیں/VBF :/PU چونکہ/SC میلبرون/NNP ٹیسٹ/NN ضائع/JJ ہو/VBF گیا/AUXA لہٰذا/SC چھٹا/OD
+ٹیسٹ/NN کھیلا/VBF جائے/AUXA (/PU  یاد/NN رہے/VBF ،/PU 
+ایشزسیریز/NNP پانچ/CD  میچوں/NN پر/PSP مشتمل/JJ ہوتی/VBF ہے/AUXT
+)/PU  نیز/SCP (/PU  ۲/CD  )/PU  چالیس/CD  اووروں/NN پر/PSP مشتمل/JJ
+ایک‌روزہ/JJ میچ/NN کھیلا/VBF جائے/AUXA تاکہ/SC تماشائیوں/NN کی/PSP
+افسردگی/NN کا/PSP مداوا/NN ہو/VBF سکے/AUXM  ۔/PU  برطانوی/JJ
+ٹیم/NN نے/PSP دونوں/OD تجاویز/NN قبول/NN کر/VBF لیں/AUXA  ۔/PU 
+۵/CD  جنوری/NNP ۱۹۷۱/CD  ء/SYM کو/PSP برطانیہ/NNP اور/CC آسٹریلیا/NNP
+کے/PSP مابین/NN دنیا/NN کا/PSP پہلا/OD ایک‌روزہ/JJ بین‌الاقوامی/JJ میچ/NN
+کھیلا/VBF گیا/AUXA  ۔/PU  یہ/PDM مقابلہ/NN آسٹریلوی/JJ ٹیم/NN نے/PSP
+پانچ/CD  وکٹوں/NN سے/PSP جیت/VBF لیا/AUXA  ۔/PU  اُسے/PRP
+دیکھنے/VBI کے/PSP لیے/PSP ایک/CD  لاکھ/CD  تماشائی/NN میدان/NN
+میں/PSP آئے/VBF  ۔/PU  ان/PRP کی/PSP دلچسپی/NN اور/CC
+جوش‌وخروش/NN دیکھ/VBF کر/SCK کئی/Q ماہرین/NN نے/PSP پیشن‌گوئی/NN
+کر/VBF دی/AUXA کہ/SC کرکٹ/NNP کی/PSP یہ/PDM نئی/JJ قسم/NN
+عوام/NN میں/PSP بڑی/JJ مقبول/JJ ہو/VBF گی/AUXT  ۔/PU  انہوں/PRP
+نے/PSP کچھ/Q غلط/JJ نہیں/NEG کہا/VBF تھا/AUXT  ۔/PU 
+گو/SC وہ/PDM ماہرین/NN جو/PRR کرکٹ/NNP کی/PSP روایتی/JJ قسم/NN سے/PSP
+عشق/NN کرتے/VBF تھے/AUXT ،/PU  انہوں/PRP نے/PSP اس/PDM
+تیزرفتار/JJ کھیل/NN کو/PSP شک‌وشبے/NN کی/PSP نگاہ/NN سے/PSP
+دیکھا/VBF  ۔/PU  ان/PRP کے/PSP خدشات/NN بھی/PRT غلط/JJ نہیں/NEG
+تھے/VBF ،/PU  ایک‌روزہ/JJ کرکٹ/NNP کے/PSP بطن/NN ہی/PRT سے/PSP
+جوئےبازی/NN ،/PU  دولت/NN کی/PSP چاہ/NN ،/PU  سازشوں/NN اور/CC
+انٹ‌شنٹ/JJ کھیل/NN نے/PSP جنم/NN لیا/VBF جو/PRR کوئی/PDM
+اصول‌وقانون/NN نہیں/NEG دیکھتا/VBF  ۔/PU  ان/PDM داغوں/NN کے/PSP
+باوجود/RB ایک‌روزہ/JJ کرکٹ/NNP ہی/PRT فی‌الوقت/RB اس/PDM کھیل/NN
+کی/PSP مقبول‌ترین/JJ قسم/NN ہے/VBF  ۔/PU 
+ایک/CD  آسٹریلوی/JJ کی/PSP
+آمد/NN
+بہت/Q کم/Q لوگ/NN جانتے/VBF ہیں/AUXT کہ/SC آسٹریلوی/JJ
+صنعت‌کار/NN ،/PU  کیری/NNP پیکر/NNP (/PU  ۱۹۳۷/CD  ء/SYM  ۔/PU  ۲۰۰۵/CD 
+ء/SYM )/PU  نے/PSP ایک‌روزہ/JJ کرکٹ/NNP کا/PSP موجودہ/JJ رنگ/NN
+بھرنے/VBI میں/PSP بنیادی/JJ کردار/NN ادا/NN کیا/VBF ہے/AUXT ،/PU 
+یہ/PRP یاد/NN رہے/VBF کہ/SC جب/NN ۱۹۷۵/CD  ء/SYM پہلا/OD عالمی/JJ
+کپ/NN کھیلا/VBF گیا/AUXA ،/PU تو/SC گو/SC اس/PRP میں/PSP
+مقابلے/NN ایک‌روزہ/JJ تھے/VBF اور/CC ۴۰/CD  اووروں/NN تک/PSP
+محدود/JJ مگر/CC قوانین/NN ،/PU  کھلاڑیوں/NN کا/PSP لباس/NN ،/PU 
+کھیلنے/VBI کی/PSP اشیا/NN وغیرہ/NN سبھی/Q روایتی/JJ ٹیسٹ/NN
+کرکٹ/NNP جیسی/PRR تھیں/AUXT  ۔/PU 
+ ۔/PU 

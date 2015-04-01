@@ -1,0 +1,41 @@
+﻿خورشید/NNP حسن/NNP خورشید/NNP (/PU  کےایچ/NNP خورشید/NNP )/PU 
+صرف/JJ اکیس/CD  برس/NN کے/PSP تھے/VBF ،/PU  جب/NN انھیں/PRP
+قائداعظم/NNP کا/PSP ذاتی/JJ معتمد/NN (/PU  سیکرٹری/NN )/PU  بننے/VBI
+کا/PSP اعزاز/NN حاصل/NN ہوا/VBF  ۔/PU  وہ/PRP اس/PDM منصب/NN
+پر/PSP ۱۹۴۵/CD  ء/SYM سے/PSP اکتوبر/NNP ۱۹۴۷/CD  ء/SYM تک/PSP فائز/JJ رہے/VBF  ۔/PU  قیام/NN پاکستان/NNP کے/PSP بعد/NN وکالت/NN کی/PSP
+ڈگری/NN کے/PSP لیے/PSP انگلستان/NNP گئے/VBF  ۔/PU  واپس/NN
+آئے/VBF تو/SC ثریا/NNP نور/NNP سے/PSP شادی/NN ہو/VBF گئی/AUXA  ۔/PU  ان/PRP کے/PSP والد/NN ،/PU  ڈاکٹر/NN نور/NNP حسین/NNP
+جموں/NNP کشمیر/NNP کے/PSP مشہور/JJ طبیب/NN تھے/VBF  ۔/PU 
+دولہا/NN دلہن/NN آپس/NN میں/PSP رشتےدار/NN تھے/VBF  ۔/PU 
+محترمہ/NN فاطمہ/NNP جناح/NNP کی/PSP دعوت/NN پر/PSP یہ/PDM
+جوڑا/NN ۵/CD  جنوری/NNP ۱۹۵۶/CD  ء/SYM کو/PSP فلیگ/NN سٹاف/NN ہاؤس/NN ،/PU  کراچی/NNP پہنچا/VBF جہاں/NN مادرملت/NNP مقیم/JJ
+تھیں/AUXT  ۔/PU  انھوں/PRP نے/PSP اس/PDM نئے/JJ شادی‌شدہ/JJ
+جوڑے/NN کے/PSP لیے/PSP وسیع/JJ برآمدے/NN سے/PSP ملحق/JJ دو/CD 
+کمرے/NN خاص/JJ طور/NN پر/PSP تیار/JJ کرا/VBF رکھے/AUXA
+تھے/AUXT  ۔/PU 
+بیگم/NN ثریا/NNP خورشید/NNP ۲۸/NN مئی/NNP ۱۹۵۶/CD  ء/SYM تک/PSP ان/PDM کمروں/NN میں/PSP مقیم/JJ رہیں/VBF  ۔/PU 
+اس/PDM دوران/NN وہ/PSP ایک/CD  ماہ/NN (/PU  ۱۲/CD  مارچ/NNP
+سے/PSP ۷/CD  اپریل/NNP تک/PSP )/PU  کے/PSP لیے/PSP بہن/NN کی/PSP
+شادی/NN پر/PSP راولپنڈی/NNP گئی/VBF تھیں/AUXT  ۔/PU  یوں/RB
+بیگم/NN ثریا/NNP کو/PSP تقریباً/RB چار/CD  ماہ/NN مادرملت/NNP
+کی/PSP مامتا/NN بھری/JJ صحبت/NN نصیب/NN ہوئی/VBF  ۔/PU 
+بیگم/NN
+ثریا/NNP ڈائری/NN لکھنے/VBI کی/PSP عادی/JJ تھیں/VBF  ۔/PU  وہ/PRP
+ایک/CD  اچھی/JJ افسانہ‌نگار/NN بھی/PRT تھیں/AUXT  ۔/PU  محترمہ/NN
+فاطمہ/NNP جناح/NNP ان/PRP سے/PSP جو/PRR عالمانہ/JJ ،/PU 
+مدابرانہ/JJ اور/CC ملک/NN و/CC قوم/NN کی/PSP بھلائی/NN کی/PSP
+باتیں/NN کرتیں/VBF ،/PU  وہ/PRP رات/NN کو/PSP انھیں/PRP اپنی/APNA
+ڈائری/NN میں/PSP لکھ/VBF لیتیں/AUXA  ۔/PU  اس/PDM طرح/NN باون/CD 
+دنوں/NN کا/PSP ایسا/PDM روزنامچہ/NN تخلیق/NN ہوا/VBF جس/PRR
+کے/PSP مندرجات/NN مادرملت/NNP کی/PSP زندگی/NN کے/PSP
+چشم‌دید/JJ گواہ/NN ہیں/VBF  ۔/PU  بیگم/NN ثریا/NNP کی/PSP کوشش/NN
+ہوتی/VBF تھی/AUXT کہ/SC خاتون/NN پاکستان/NNP بولتی/VBF رہیں/AUXP
+اور/CC وہ/PRP مزے/NN سے/PSP ان/PRP کی/PSP باتیں/NN سنتی/VBF
+رہیں/AUXP  ۔/PU  جو/PRR ان/PRP کے/PSP دل/NN و/PSP دماغ/NN پر/PSP
+اثرانداز/JJ ہوتیں/VBF ،/PU  وہ/PRP تحریر/NN کر/VBF لی/AUXA جاتیں/AUXA  ۔/PU  انھیں/PRP اندازہ/NN ہی/PRT نہ/NEG تھا/VBF کہ/SC نادانستگی/NN
+میں/PSP کتنا/Q بلندپایہ/JJ شاہکار/NN تخلیق/NN کر/VBF رہی/AUXP ہیں/AUXT
+ ۔/PU  آئیے/VBF مادرملت/NNP کے/PSP خیالات/NN عالیہ/JJ
+سے/PSP استفادہ/NN کیجئے/VBF :/PU 
+سوال/NN :/PU  آپ/PRP کے/PSP
+نزدیک/NN عورت/NN کا/PSP کیا/RB درجہ/NN ہے/VBF ؟/PU
+

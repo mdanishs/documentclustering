@@ -1,0 +1,44 @@
+﻿سمیری/NNP تہذیب/NN نے/PSP تصویری/JJ اور/CC تصّوری/JJ خط/NN
+کے/PSP علاوہ/PSP تقریباً/RB چار/CD  ہزار/CD  سات/CD  سو/CD  سال/NN
+قبل/NN خطِ‌میخی/NNP بھی/PRT ایجاد/NN کیا/VBF جس/PRR میں/PSP
+علامات/NN کی/PSP اشکال/NN میخ/NN کے/PSP نشانات/NN جیسی/PRR
+ہوتی/VBF ہیں/AUXT  ۔/PU  تصویری/JJ اور/CC تصورّی/JJ خط/NN کے/PSP
+مقابلے/NN میں/PSP انہیں/PRP بنانا/VBI آسان/JJ ہے/VBF اور/CC تیز/JJ
+رفتار/NN بھی/PRT  ۔/PU  اس/PDM خط/NN کے/PSP رواج/NN کے/PSP
+آثار/NN سن/NN عیسوی/JJ کے/PSP آغاز/NN تک/PSP ملتے/VBF ہیں/AUXT  ۔/PU  انگریزی/NNP زبان/NN میں/PSP یہ/PRP کیونی‌فارم/NNP (/PU Cuneiform/FF )/PU  کہلاتا/VBF ہے/AUXT  ۔/PU 
+فن/NN تحریر/NN
+تصویری/JJ ،/PU  تصّوری/JJ اور/CC میخی/JJ خط/NN کے/PSP نام/NN
+سے/PSP ارتقائی/JJ مراحل/NN طے/NN کرتا/VBF ہوا/AUXA وقت/NN
+کے/PSP ساتھ/NN ساتھ/NN چلنے/VBI کی/PSP مقدوربھر/JJ کوشش/NN
+کرتا/VBF رہا/AUXP تاہم/SC انسان/NN کی/PSP تہذیبی/JJ برق‌رفتاری/NN
+کا/PSP ساتھ/NN دینا/VBI آسان/JJ نہیں/NEG تھا/VBF  ۔/PU  فن/NN
+تحریر/NN رفتہ/RB رفتہ/RB سادگی/NN اور/CC پرکاری/NN کی/PSP طرف/NN
+مائل/JJ ہوا/VBF اور/CC ایسی/PDM لکیروں/NN پر/PSP توجہ/NN مرکوز/JJ
+ہونے/VBI لگی/AUXA جنہیں/PRR انسان/NN بغیر/PSP ارادہ/NN اکثر/RB و/CC
+بیشتر/RB کھینچتا/VBF رہتا/AUXM ہے/AUXT  ۔/PU  ان/PDM لکیروں/NN
+میں/PSP قوس/NN ‘/PU  دائرہ/NN ‘/PU  سیدھی/JJ لکیر/NN ‘/PU  منحنی/JJ
+لکیر/NN ‘/PU  افقی/JJ لکیر/NN ‘/PU  عمودی/JJ لکیر/NN اور/CC ترچھی/JJ
+لکیر/NN نمایاں/JJ ہیں/VBF  ۔/PU 
+پھر/RB لکیروں/NN کے/PSP ساتھ/NN
+ناموں/NN کی/PSP آوازیں/NN وابستہ/JJ ہوئیں/VBF اور/CC جب/NN
+آوازوں/NN کے/PSP حوالے/NN سے/PSP عمومی/JJ شناخت/NN مستحکم/JJ
+ہو/VBF گئی/AUXA تو/SC لکیروں/NN کے/PSP ظاہر/NN پر/PSP سے/PSP
+تصّوریت/NN کا/PSP غبار/NN آہستہ/RB آہستہ/RB کم/Q ہونے/VBI لگا/AUXA  ۔/PU  اب/NN فن/NN تحریر/NN کا/PSP رخ/NN صورت/NN سے/PSP زیادہ/Q
+صوت/NN کی/PSP طرف/NN مڑ/VBF گیا/AUXA  ۔/PU  ہر/JJ نشان/NN
+کو/PSP لفظ/NN کی/PSP علامت/NN (/PU  Logogra/FF )/PU  اور/CC
+اس/PRP کی/PSP شکل/NN کو/PSP لفظی/JJ نقش/NN
+(/PU  Idiogram/FF )/PU  کہتے/VBF ہیں/AUXT  ۔/PU 
+صوتی/JJ اعتبار/NN
+سے/PSP فن/NN تحریر/NN کو/PSP تین/CD  مدارج/NN میں/PSP بانٹا/VBF
+گیا/AUXA ہے/AUXT  ۔/PU  پہلا/OD درجہ/NN '/PU  لفظی/JJ رکن/NN '/PU 
+(/PU  Word/FF Syllable/FF stage/FF )/PU  کا/PSP ہے/VBF  ۔/PU 
+اس/PRP میں/PSP ایک/CD  نشان/NN مکمل/JJ لفظ/NN کو/PSP مجموعی/JJ
+طور/NN پر/PSP وحدانی/JJ شکل/NN میں/PSP ظاہر/NN کرتا/VBF ہے/AUXT
+اور/CC اس/PRP میں/PSP ایک/CD  سے/PSP زائد/JJ ٹکڑوں/NN پر/PSP
+مشتمل/JJ الفاظ/NN شامل/JJ ہیں/VBF  ۔/PU  دوسرا/OD درجہ/NN '/PU 
+رکن/NN تہجی/JJ '/PU (/PU  PUSyllabic/FF stage/FF )/PU  ہے/VBF  ۔/PU 
+اس/PRP میں/PSP ایک/CD  لفظ/NN کے/PSP نمائندہ/JJ نشانات/NN کو/PSP
+علامات/NN میں/PSP یوں/RB تحریر/NN کیا/VBF جاتا/AUXA ہے/AUXT
+جس/PRD طرح/NN آواز/NN کے/PSP ٹکڑوں/NN میں/PSP بولا/VBF
+جائے/AUXA  ۔/PU 
+ ۔/PU 

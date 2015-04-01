@@ -1,0 +1,12 @@
+﻿''/PU  تم/PRP مجھے/PRP بنارس/NNP کے/PSP لنگڑے/NN کا/PSP مرتبہ/NN بخشو/VBF  ۔/PU  "/PU  ریحانی/NNP نے/PSP مسکرا/VBF کر/SCK سرگوشی/NN کی/VBF  ۔/PU 
+صوفی/NNP نے/PSP چاکلیٹ/NN کی/PSP ایک/CD  ڈلی/NN دانتوں/NN سے/PSP زور/NN سے/PSP کاٹتے/VBF ہوئے/AUXA کہا/VBF ''/PU  بہت/Q اچھا/JJ میرے/PRS لنگڑے/NN  ۔/PU  "/PU 
+''/PU  شکریہ/NN ،/PU  شکریہ/NN  ۔/PU  "/PU  ریحانی/NNP نے/PSP سرگوشی/NN کی/VBF  ۔/PU 
+صوفی/NNP ذرا/JJ اکتا/VBF کر/SCK بولی/VBF ''/PU  مگر/CC یہ/PDM سرگوشیاں/NN کیوں/RB ؟/PU  آواز/NN بیٹھی/VBF ہوئی/AUXA ہے/AUXT کیا/RB ؟/PU  اور/CC یہ/PRP چوروں/NN کی/PSP سی/PRT شکل/NN بنائے/VBF ادھر/NN ادھر/NN کیا/RB دیکھ/VBF رہے/AUXP ہو/AUXA ؟/PU  "/PU 
+''/PU  ش‌ش‌ش/NN دادا/NN ابو/NN کا/PSP ڈر/NN ہے/VBF میری/PRS صوفی/NNP !/PU  موجود/JJ تو/PRT نہیں/NEG گھر/NN میں/PSP ؟/PU  "/PU 
+''/PU  دادا/NN ابو/PU  سے/PSP ڈرنا/VBI کس/PDM قدر/NN بزدلی/NN اور/CC حماقت/NN کی/PSP بات/NN ہے/VBF  ۔/PU  وہ/PRP کوئی/PDM جن/NN ہیں/AUXT ،/PU  جو/PRR تمھیں/PRP کھا/VBF جائیں/AUXA گے/AUXT ؟/PU  مزیدبرآں/SC مجھے/PRP ڈرپوکوں/NN سے/PSP اتنی/Q نفرت/NN ہے/VBF اتنی/Q کہ/SC اور/CC کسی/PDM چیز/NN سے/PSP نہیں/NEG  ۔/PU  "/PU  یہ/PRP کہتے/VBF ہوئے/AUXA صوفی/NNP چاکلیٹ/NN کی/PSP چمکدار/JJ پنی/NN مشغلے/NN کے/PSP طور/RB پر/PSP اپنے/APNA دانتوں/NN پر/PSP لگانے/VBI لگی/AUXA  ۔/PU 
+''/PU  میری/PRS جگہ/NN کوئی/PDM شیر/NN دل/NN بھی/PRT ہوتا/VBF تو/SC دادا/NN ابا/NN سے/PSP ڈرے/VBF بغیر/PSP نہ/NEG رہ/VBF سکتا/AUXM  ۔/PU  جانتی/VBF ہو/AUXT ان/PDM دنوں/NN سالانہ/JJ امتحان/NN ہو/VBF رہے/AUXP ہیں/AUXT  ۔/PU  دادا/NN ابا/NN اکثر/RB کالج/NN فون/NN کر/VBF کے/SCK پوچھتے/VBF رہتے/AUXP ہیں/AUXT کہ/SC میں/PRP وہاں/NN موجود/JJ بھی/PRT ہوں/VBF یا/CC نہیں/NEG  ۔/PU  ایسے/JJ موقع/NN پر/PSP کالج/NN سے/PSP بھاگ/VBF کر/SCK یہاں/NN آ/VBF پہنچا/AUXA ہوں/AUXT  ۔/PU  "/PU 
+''/PU  یہ/PRP تمھاری/PRS حماقت/NN ہے/VBF !/PU  بیوقوف/JJ ہو/VBF تم/PRP !/PU  !/PU  "/PU  صوفی/NNP نے/PSP کافی/NN کا/PSP گلاس/NN اٹھائے/VBF ہوئے/AUXA کہا/VBF  ۔/PU 
+''/PU  اری/INJ میری/PRS بلبل/NN !/PU  میری/PRS فاختہ/NN !/PU  میں/PRP ایک/CD  نہایت/Q ضروری/JJ کام/NN کے/PSP سلسلے/NN میں/PSP یہاں/NN آیا/VBF ہوں/AUXT  ۔/PU  "/PU  ریحانی/NNP نے/PSP للچائی/VBF ہوئی/AUXA نظروں/NN سے/PSP چاکلیٹ/NN کے/PSP ڈبے/NN کو/PSP دیکھتے/VBF ہوئے/AUXA کہا/VBF  ۔/PU 
+''/PU  کیا/RB کوئی/PDM کتاب/NN لینے/VBI آئے/AUXA ہو/AUXT ؟/PU  "/PU  صوفی/NNP نے/PSP ڈبا/NN مضبوطی/NN سے/PSP بند/JJ کرتے/VBF ہوئے/AUXA پوچھا/VBF  ۔/PU 
+''/PU  اب/NN جان/VBF ‌بوجھ/VBF کر/SCK انجان/JJ نہ/NEG بنو/VBF میری/PRS قمری/NN  ۔/PU  "/PU 
+ 

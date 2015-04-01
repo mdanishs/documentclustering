@@ -1,0 +1,13 @@
+﻿بعض/Q غلط/JJ الفاظ/NN یا/CC غلط/JJ اصطلاحات/NN رواج/NN پا/VBF جائیں/AUXA تو/SC کثرت/NN استعمال/NN کے/PSP سبب/NN انھیں/PRP قبولیت/NN عام/JJ سند/NN مل/VBF جاتی/AUXA ہے/AUXT  ۔/PU  انھیں/PRP صحیح/JJ کرنے/VBI کی/PSP کوشش/NN بھی/PRT نہیں/NEG کی/VBF جاتی/AUXA  ۔/PU  انگریزی/NNP زبان/NN میں/PSP ہجوں/NN کا/PSP مسئلہ/NN کئی/Q بار/NN اٹھایا/VBF گیا/AUXA لیکن/CC روایت‌پسند/JJ برطانوی/JJ عوام/NN نے/PSP اصلاح/NN نہ/NEG ہونے/VBI دی/AUXA  ۔/PU  جارج/NNP برنارڈشا/NNP نے/PSP اپنی/APNA جائیداد/NN وقف/NN کرنے/VBI کی/PSP پیشکش/NN کی/VBF تاکہ/SC انگریزی/NNP الفاظ/NN کے/PSP ہجے/NN درست/JJ کیے/VBF جائیں/AUXA لیکن/CC پذیرائی/NN نہ/NEG ہوئی/VBF  ۔/PU  اُس/PRP نے/PSP چڑ/VBF کر/PSP انگریزی/NNP ہجوں/NN کا/PSP مذاق/NN بھی/PRT اُڑایا/VBF لیکن/CC پرنالہ/NN وہیں/NN رہا/VBF  ۔/PU  البتہ/SCP امریکیوں/NN نے/PSP کسی/PDM حد/NN تک/PSP انگریزی/NNP کے/PSP ہجے/NN درست/JJ کر/VBF لیے/AUXA  ۔/PU 
+اسی/PDM طرح/NN اُردو/NNP میں/PSP بھی/PRT کئی/Q غلط‌العام/JJ مروّج/JJ ہیں/VBF ،/PU  عربی/NNP لفظ/NN اردو/NNP میں/PSP عام/JJ لوگ/NN '/PU  انشاءﷲ/INJ '/PU  لکھتے/VBF ہیں/AUXT اس/PRP سے/PSP مراد/NN لیا/VBF جاتا/AUXA ہے/AUXT '/PU  اگر/SC ﷲ/NNP نے/PSP چاہا/VBF '/PU  حالانکہ/CC اس/PDM معنی/NN کے/PSP لیے/PSP صحیح/JJ املا/NN '/PU  ان‌شاءﷲ/INJ '/PU  ہے/VBF  ۔/PU 
+ماہرین/NN لُغت/NN تو/PRT متعدد/Q مثالیں/NN پیش/NN کر/VBF سکتے/AUXM ہیں/AUXT  ۔/PU  لیکن/SCP زبان/NN کے/PSP علاوہ/PSP دنیا/NN بھر/JJ میں/PSP بےشمار/JJ غلط‌العام/JJ نام/NN بھی/PRT رواج/NN پا/VBF چکے/AUXA ہیں/AUXT  ۔/PU  ان/PRP کا/PSP ذکر/NN دلچسی/NN سے/PSP خالی/JJ نہ/NEG ہو/VBF گا/AUXT  ۔/PU 
+کیمل/NN ہیئر/NN برش/NN (/PU  Camel/FF Hair/FF Brush/FF )/PU 
+بال/NN سنوارنے/VBI والا/VALA یہ/PDM مشہور/JJ برش/NN اونٹ/NN کے/PSP بالوں/NN سے/PSP نہیں/NEG بنایا/VBF جاتا/AUXA بلکہ/CC گلہری/NN کے/PSP بالوں/NN سے/PSP بنتا/VBF ہے/AUXT  ۔/PU  یہ/PRP جرمن/JJ موجد/NN کیمل/NNP (/PU  Kemel/FF )/PU  کے/PSP نام/NN پر/PSP رکھا/VBF گیا/AUXA تھا/AUXT  ۔/PU 
+پانامہ/NN ہیٹ/NN :/PU 
+یہ/PDM ٹوپی/NN پانامہ/NNP میں/PSP نہیں/NEG بلکہ/CC ایکوڈور/NNP میں/PSP بنائی/VBF جاتی/AUXA ہے/AUXT  ۔/PU 
+CAT/FF GUT/FF یعنی/CC بلی/NN کی/PSP آنت/NN :/PU 
+یہ/PDM آنت/NN جیسی/PRR شے/NN جراحی/NN میں/PSP جسم/NN کے/PSP اندرونی/JJ زخموں/NN کو/PSP سینے/VBI کے/PSP لیے/PSP استعمال/NN ہوتی/VBF ہے/AUXT  ۔/PU 
+کینری/NNP جزائر/NNP (/PU  Canary/FF Islands/FF )/PU 
+اسپین/NNP کی/PSP ملکیت/NN ان/PDM جزائر/NN کا/PSP نام/NN کینری/NNP نامی/JJ پرندے/NN کے/PSP نام/NN پر/PSP نہیں/NEG بلکہ/CC کتوں/NN کی/PSP ایک/CD  قسم/NN کے/PSP نام/NN پر/PSP رکھا/VBF ہے/AUXT  ۔/PU  جس/PRR کا/PSP نام/NN کتوں/NN کا/PSP جزیرہ/NN ہے/VBF  ۔/PU 
+ڈرائی/JJ ہول/NN (/PU  Dry/FF Hol/FF )/PU  :/PU 
+ ۔/PU 

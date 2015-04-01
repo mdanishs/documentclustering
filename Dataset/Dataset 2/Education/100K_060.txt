@@ -1,0 +1,17 @@
+﻿اس/PDM قومی/JJ تقریب/NN کے/PSP انعقاد/NN کے/PSP سلسلے/NN میں/PSP حسب‌سابق/RB طلبہ/NN سے/PSP رابطے/NN کے/PSP مشکل/JJ اور/CC صبرآزما/JJ مراحل/NN سے/PSP گزرنا/VBI پڑا/AUXA ،/PU  اس/PDM بار/NN بھی/PRT تعلیمی/JJ بورڈوں/NN کی/PSP طرف/NN سے/PSP نامکمل/JJ پتہ‌جات/NN دیے/VBF گئے/AUXA  ۔/PU  کوئٹہ/NNP بورڈ/NN کی/PSP انتظامیہ/NN کا/PSP رویہ/NN ہر/JJ سال/NN مایوس‌کن/JJ ہوتا/VBF ہے/AUXT اور/CC ان/PRP کی/PSP عدم‌دلچسپی/NN کی/PSP بنا/NN پر/PSP صوبہ/NN بلوچستان/NNP کے/PSP واحد/OD تعلیمی/JJ بورڈ/NN کے/PSP تمام/Q پوزیشن/NN ہولڈر/JJ طلبہ/NN لاہور/NNP نہیں/NEG پہنچ/VBF پاتے/AUXA  ۔/PU  اس/PDM مرتبہ/NN بھی/PRT ڈپٹی/NN کنٹرولر/NN سے/PSP لے/VBF کر/SCK چیئرمین/NN بورڈ/NN تک/PSP بےشمار/JJ فون/NN اور/CC فیکس/NN ارسال/NN کرنے/VBI کے/PSP باوجود/RB ایک/CD  طالب‌علم/NN سے/PSP بھی/PRT رابطہ/NN ممکن/JJ نہ/NEG ہو/VBF سکا/AUXM  ۔/PU  کوئٹہ/NNP بورڈ/NN میں/PSP ۲۰۰۴/CD  ء/SYM میں/PSP پوزیشن/NN حاصل/NN کرنے/VBI والی/VALA طالبہ/NN بریرہ/NNP صدف/NNP کے/PSP والد/NN جناب/NN علیم/NNP نواز/NNP نے/PSP خصوصی/JJ تعاون/NN کیا/VBF اور/CC جس/PRD قدر/NN ممکن/JJ ہو/VBF سکا/AUXM وہ/PRP طلبہ/NN کے/PSP گھروں/NN تک/PSP پہنچے/VBF اور/CC انہیں/PRP اس/PDM قومی/JJ تقریب/NN سے/PSP آگاہ/JJ کیا/VBF  ۔/PU 
+اس/PDM بار/NN حال/NN ہی/PRT میں/PSP قائم/JJ ہونے/VBI والے/VALA ڈیرہ‌اسماعیل/NNP اور/CC گلگت/NNP کے/PSP قراقرم/NNP بورڈ/NN میں/PSP پوزیشن/NN حاصل/NN کرنے/VBI والے/VALA طلبہ/NN و/CC طالبات/NN کو/PSP بھی/PRT مدعو/JJ کیا/VBF گیا/AUXA  ۔/PU 
+طلبہ/NN کو/PSP انعام/NN میں/PSP خصوصی/JJ لوحِ‌تحسین/NN دینے/VBI کا/PSP فیصلہ/NN کیا/VBF گیا/AUXA جس/PRR میں/PSP پاکستان/NNP کی/PSP عظمت/NN کا/PSP نشان/NN مینارپاکستان/NNP کندہ/JJ تھا/VBF  ۔/PU  اس/PRP کے/PSP علاوہ/PSP ایک/CD  بیش‌قیمت/JJ خوبصورت/JJ بیگ/NN میں/PSP حسب‌ذیل/JJ کتب/NN و/CC دیگر/JJ انعامات/NN دیئے/VBF گئے/AUXA  ۔/PU 
+۱/CD   ۔/PU  مترجم/JJ قرآن‌پاک/NNP
+۲/CD   ۔/PU  حیات‌طیبہ/NNP (/PU  سیرت‌نبویؐ/NNP )/PU 
+۳/CD   ۔/PU  اللہ/NNP میرے/PRS دل/NN کے/PSP اندر/NN (/PU  نومسلم/JJ افراد/NN کی/PSP ایمان‌افروز/JJ داستانیں/NN )/PU 
+۴/CD   ۔/PU  ازواج‌مطہرات/NNP (/PU  سیرت/NN )/PU 
+۵/CD   ۔/PU  کلیات‌اقبال/NNP
+۶/CD   ۔/PU  آزادی/NN کے/PSP چراغ/NN (/PU  تحریک‌آزادی/NNP )/PU 
+۷/CD   ۔/PU  حصص‌المسلم/NNP (/PU  مسنون/JJ دعائیں/NN )/PU 
+۸/CD   ۔/PU  اردوڈائجسٹ/NNP (/PU  آزادی/NN نمبر/NN )/PU 
+۹/CD   ۔/PU  رنج‌رائیگاں/NNP (/PU  شاعری/NN )/PU 
+۱۰/CD   ۔/PU  ۱۰۰/CD  عظِیم/JJ ایجادات/NN
+۱۱/CD   ۔/PU  حج/NNP و/CC عمرہ/NNP کی/PSP معلومات/NN (/PU  سی‌ڈی/NN )/PU 
+۱۲/CD   ۔/PU  تعلیم‌قرآن/NNP (/PU  کیسٹ/NN )/PU 
+۱۳/CD   ۔/PU  اللہ‌تیراشکر/INJ (/PU  کیسٹ/NN )/PU 
+ ۔/PU 

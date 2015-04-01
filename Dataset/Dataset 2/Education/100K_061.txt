@@ -1,0 +1,15 @@
+﻿اسم/NN آلہ/NN :/PU 
+فارسی/NNP میں/PSP اسم/NN آلہ/NN بعض/Q لاحقوں/NN سے/PSP بنتا/VBF ہے/AUXT  ۔/PU  ان/PRP میں/PSP سے/PSP بعض/Q اُردو/NNP میں/PSP بھی/PRT مستعمل/JJ ہیں/VBF  ۔/PU  مثلاً/RB آنہ/NN ،/PU  انگشتانہ/NN ،/PU  پناہ/NN :/PU  دست‌پناہ/NN (/PU  دسپنا/NN ،/PU  چمٹا/NN )/PU   ۔/PU 
+تراش/NN :/PU  قلم‌تراش/NN ،/PU  سوز/NN :/PU  فتیلہ‌سوز/NN ،/PU  کش/NN :/PU  مثلاً/RB بادکش/NN ،/PU  دُودکَش/NN ،/PU  کدوکَش/NN ،/PU  گیر/NN :/PU  مثلاً/RB گل‌گیر/NN ،/PU  نم‌گیر/NN  ۔/PU  مال/NN :/PU  مثلاً/RB رومال/NN ،/PU  دست‌مال/NN ،/PU  مثلاً/RB دستہ/NN ،/PU  چشمہ/NN  ۔/PU 
+اُردو/NNP میں/PSP بعض/Q اسم/NN جو/PRR معنوی/JJ اعتبار/NN سے/PSP اسم/NN آلہ/NN کہے/VBF جا/AUXA سکتے/AUXM ہیں/AUXT مصدر/NN میں/PSP تصرف/NN کر/VBF کے/SCK یا/CC بغیر/PSP تصرف/NN آخر/NN میں/PSP لاحقے/NN کے/PSP اضافے/NN سے/PSP بنائے/VBF جاتے/AUXA ہیں/AUXT ،/PU  مثلاً/RB
+۱/CD   ۔/PU  بیلنا/VBI سے/PSP بیلن/NN (/PU  بیلن/NN )/PU  لٹکنا/VBI سے/PSP لٹکن/NN (/PU  لٹکن/NN )/PU  جھاڑنا/VBI سے/PSP جھاڑن/NN  ۔/PU 
+۲/CD   ۔/PU  پھونکنا/VBI سے/PSP پھونکنی/NN (/PU  پھونکنی/NN سے/PSP پھکنی/NN )/PU  چھاننا/VBI سے/PSP چھلنی/NN (/PU  چھاننی/NN سے/PSP چھلنی/NN )/PU  دھونکنا/VBI سے/PSP دھونکنی/NN (/PU  دھوکنی/NN )/PU   ۔/PU 
+۳/CD   ۔/PU  جھولنا/VBI سے/PSP جھولا/NN  ۔/PU  اس/PRP میں/PSP کوئی/PDM لاحقہ/NN نہیں/NEG  ۔/PU 
+۴/CD   ۔/PU  پالنا/VBI سے/PSP پالنا/NN  ۔/PU  کوئی/PDM تبدیلی/NN نہیں/NEG ،/PU  نہ/NEG کوئی/PDM لاحقہ/NN آیا/VBF  ۔/PU 
+۵/CD   ۔/PU  ناک/NN سے/PSP نکیل/NN (/PU  ناک/NN سے/PSP نکیل/NN )/PU   ۔/PU 
+۶/CD   ۔/PU  ہاتھ/NN سے/PSP ہتھوڑا/NN (/PU  ہاتھ/NN سے/PSP ہتھوڑا/NN )/PU   ۔/PU 
+۷/CD   ۔/PU  جھاڑنا/VBI سے/PSP جھاڑو/NN  ۔/PU 
+لیکن/SCP بہت/Q سے/PRT اسم/NN جن/PRR میں/PSP آلہ/NN کے/PSP معنی/NN شامل/JJ ہیں/VBF ،/PU  اس/PDM قسم/NN کی/PSP کوئی/PDM علامت/NN یا/CC تبدیلی/NN ظاہر/NN نہیں/NEG کرتے/VBF  ۔/PU  مثلاً/RB پھاوڑا/NN ،/PU  کدال/NN ،/PU  کُھرپا/NN ،/PU  بسولی/NN ،/PU  کرنی/NN ،/PU  آرا/NN ،/PU  آری/NN ،/PU  چاقو/NN ،/PU  چھری/NN ،/PU  چمچہ/NN ،/PU  پنسل/NN ،/PU  قلم/NN ،/PU  دیا/NN ،/PU  لمپ/NN ،/PU  کنجی/NN ،/PU  چابی/NN ،/PU  قینچی/NN ،/PU  توپ/NN ،/PU  تلوار/NN ،/PU  بندوق/NN وغیرہ/NN  ۔/PU  اسی/PRP لیے/PSP یہ/PRP کہنا/VBI زیادہ/Q درست/JJ ہو/VBF گا/AUXT کہ/SC اردو/NNP میں/PSP وزن/NN اور/CC صیغے/NN کے/PSP لحاظ/NN سے/PSP اسم/NN آلہ/NN موجود/JJ نہیں/NEG ،/PU  ہاں/NN عربی/NNP اور/CC فارسی/NNP کے/PSP اسم/NN آلہ/NN اردو/NNP میں/PSP آتے/VBF ہیں/AUXT اور/CC اپنی/APNA اصل/NN کی/PSP پابندی/NN کرتے/VBF ہیں/AUXT  ۔/PU  اردو/NNP میں/PSP بعض/Q پہچانیں/NN اسم/NN آلہ/NN کی/PSP اوپر/NN مذکور/JJ ہوئیں/VBF لیکن/CC ان/PRP کو/PSP کسی/PDM قاعدے/NN یا/PSP کلیے/NN کے/PSP تحت/NN نہیں/NEG لایا/VBF جا/AUXA سکتا/AUXM  ۔/PU 
+اسم/NN معاوضہ/NN :/PU 
+اسم/NN معاوضہ/NN ایسے/PDM اسم/NN مشتق/NN کو/PSP کہتے/VBF ہیں/AUXT جو/PRR کسی/PDM خدمت/NN ،/PU  کام/NN ،/PU  محنت/NN ،/PU  صلہ/NN ،/PU  معاوضہ/NN ،/PU  تنخواہ/NN یا/CC مزدوری/NN کے/PSP مفہوم/NN کو/PSP ادا/NN کرے/VBF مثلاً/RB زنگائی/NN ،/PU  سلائی/NN ،/PU  دھلائی/NN ،/PU  بھرائی/NN وغیرہ/NN  ۔/PU 
+ ۔/PU 

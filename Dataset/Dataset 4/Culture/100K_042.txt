@@ -1,0 +1,44 @@
+﻿صوبہ/NN بہار/NNP کے/PSP شہر/NN پٹنہ/NNP میں/PSP کتابوں/NN
+کی/PSP ایک/CD  چھوٹی/JJ سی/PRT دکان/NN تھی/VBF  ۔/PU  اس/PRP
+کا/PSP مالک/NN معمولی/JJ پونجی/NN کا/PSP مالک/NN تھا/VBF  ۔/PU 
+گزر/NN بسر/NN بڑی/JJ مشکل/NN سے/PSP ہوتی/VBF تھی/AUXT  ۔/PU 
+ایک/CD  تو/PRT لوگوں/NN کو/PSP کتابیں/NN پڑھنے/VBI کا/PSP شوق/NN
+نہیں/NEG تھا/VBF ،/PU  دوسرے/OD خریدار/NN بھی/PRT نہ/NEG ملتے/VBF
+تھے/AUXT  ۔/PU  مگر/SCP یہ/PDM شخص/NN صبر/NN و/CC سکون/NN
+سے/PSP دکان/NN پر/PSP بیٹھا/VBF ہر/JJ آنے/VBI جانے/VBI والے/VALA
+کو/PSP دیکھتا/VBF کہ/SC شاید/RB کوئی/PDM گاہک/NN آ/VBF جائے/AUXA  ۔/PU 
+جب/NN کوئی/PDM آ/VBF جاتا/AUXA ،/PU تو/SC وہ/PRP اسے/PRP
+بڑے/JJ شوق/NN سے/PSP دکان/NN پر/PSP بٹھاتا/VBF ،/PU  اچھی/JJ
+اچھی/JJ کتابیں/NN دکھاتا/VBF ،/PU  ان/PRP کی/PSP اہمیت/NN پر/PSP
+روشنی/NN ڈالتا/VBF اور/CC مصنف/NN کے/PSP بارے/PSP میں/PSP
+بتاتا/VBF  ۔/PU  اس/PDM شخص/NN کی/PSP گفتگو/NN میں/PSP بڑی/JJ
+مٹھاس/NN تھی/VBF  ۔/PU  جو/JJ بھی/PRT اس/PRP سے/PSP ملتا/VBF
+اس/PRP کا/PSP گرویدہ/NN ہو/VBF جاتا/AUXA  ۔/PU 
+چھوٹی/JJ سی/PRT
+دکان/NN کا/PSP یہی/PDM مالک/NN جب/NN انگریزوں/NN کے/PSP خلاف/JJ
+قدم/NN اٹھاتا/VBF ،/PU  انہیں/PRP دیس/NN سے/PSP نکالنے/VBI کے/PSP
+لیے/PSP سرتوڑ/JJ کوشش/NN کرتا/VBF اور/CC گورا/JJ فوج/NN سے/PSP
+باقاعدہ/JJ جنگ/NN کرتا/VBF ہے/AUXT ،/PU تو/SC اسے/PRP آزادی/NN
+کے/PSP مجاہدوں/NN میں/PSP نمایاں/JJ مقام/NN حاصل/NN ہو/VBF
+جاتا/AUXA ہے/AUXT  ۔/PU  حتیٰ‌کہ/SCP انگریز/JJ فوج/NN کے/PSP
+مشہور/JJ کمانڈر/NN ،/PU  کرنل/NN بیلی/NNP سن/NNP کو/PSP بھی/PRT
+یہ/PDM اعتراف/NN کرنا/VBI پڑا/AUXA :/PU 
+''/PU  انگریزوں/NN سے/PSP
+نفرت/NN کرنے/VBI والوں/VALA میں/PSP وہ/PRP خاصی/Q شہرت/NN
+کا/PSP مالک/NN تھا/VBF  ۔/PU  فرنگیوں/NN سے/PSP شدید/JJ
+نفرت/NN کرنے/VBI والے/VALA یہ/PDM کتب‌فروش/NN مولوی/NNP پیر/NNP
+علی/NNP تھے/VBF  ۔/PU 
+مولوی/NNP پیر/NNP علی/NNP ہندوستان/NNP
+کے/PSP بدلتے/VBF ہوئے/AUXA حالات/NN نہایت/Q غور/NN سے/PSP
+دیکھ/VBF رہے/AUXP تھے/AUXT  ۔/PU  انہیں/PRP یقین/NN ہو/VBF
+چلا/AUXA تھا/AUXT کہ/SC انگریزوں/NN سے/PSP باقاعدہ/JJ جنگ/NN
+نہیں/NEG کی/VBF گئی/AUXA ،/PU تو/SC وہ/PRP سارے/JJ ملک/NN کے/PSP
+حکمراں/NN بن/VBF جائیں/AUXA گے/AUXT  ۔/PU  مگر/SCP یہ/PDM جنگ/NN
+محض/JJ سوچنے/VBI ،/PU  تقریریں/NN کرنے/VBI اور/CC اپنی/APNA
+حالت/NN پر/PSP آنسو/NN بہانے/VBI سے/PSP کامیاب/JJ نہیں/NEG ہو/VBF
+سکتی/AUXM تھی/AUXT ،/PU  اس/PRP کے/PSP لیے/PSP تو/PRT لڑنے/VBI
+والے/VALA چاہیے/VBF تھے/AUXT ،/PU  ایسے/PRP لڑنے/VBI والے/VALA
+جو/PRR فن/NN حرب/NN سے/PSP بخوبی/RB واقف/JJ ہوں/VBF اور/CC
+جو/PRR فرنگیوں/NN کے/PSP جدید/JJ اسلحے/NN کا/PSP مقابلہ/NN کر/VBF
+سکیں/AUXM  ۔/PU 
+ ۔/PU 

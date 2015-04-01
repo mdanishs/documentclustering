@@ -1,0 +1,15 @@
+﻿’/PU  چاند/NN میرا/PRS ہم‌سفر/JJ ‘/PU  ایوب/NNP ندیم/NNP کا/PSP سفرنامۂفن/NN ہے/VBF ،/PU  جو/PRR خیال/NN کی/PSP جدّت/NN اور/CC فکر/NN کی/PSP تازگی/NN کے/PSP سبب/NN شعری/JJ مجموعوں/NN کی/PSP بھیڑ/NN میں/PSP الگ/JJ اور/CC منفرد/JJ دکھائی/VBF دیتا/AUXA ہے/AUXT  ۔/PU 
+(/PU  تبصرہ‌نگار/NN :/PU  طارق/NNP اسماعیل/NNP ساگر/NNP )/PU 
+نام/NN کتاب/NN :/PU  تعلیم/NN ‌القرآن/NNP
+مترجم/NN :/PU  مولانا/NN فتح/NNP محمد/NNP جالندھری/NNP
+مرتب/NN :/PU  صابر/NNP قرنی/NNP
+مطبع/NN :/PU  میٹروپرنٹر/NNP
+ناشر/NN :/PU  ادارہ/NN تعلیم‌القرآن/NNP منصورہ/NNP ملتان/NNP روڈ/NN لاہور/NNP  ۔/PU 
+قیمت/NN :/PU  ۳۰۰/CD  روپے/NN
+جیسا/PRR کہ/SC علامہ/NN اقبال/NNP نے/PSP فرمایا/VBF :/PU 
+گرتوخواہی‌زیشتن/FF
+نیست‌ممکن‌جز‌بہ‌قرآن‌زیستن/FF
+ابتدائےآفرینش/NN سے/PSP لے/VBF کر/SCK اب/NN تک/PSP جتنی/Q بھی/PRT الہامی/JJ کتب/NN آئیں/VBF ‘/PU  ان/PRP میں/PSP قرآن/NNP کے/PSP سوا/PSP کوئی/PDM بھی/PRT کتاب/NN آج/NN اپنی/APNA اصل/JJ شکل/NN میں/PSP ہمارے/PRS سامنے/NN موجود/JJ نہیں/NEG  ۔/PU  سب/Q میں/PSP تحریف/NN ہو/VBF چکی/AUXA ہے/AUXT صرف/JJ قرآن/NNP ایک/CD  ایسی/PDM کتاب/NN ہے/VBF جو/PRR ہر/JJ طرح/NN کی/PSP تحریف/NN سے/PSP پاک/JJ اور/CC ہر/JJ قسم/NN کے/PSP شک/NN و/CC شبہ/NN سے/PSP بالاتر/JJ ہے/VBF لیکن/CC ایسی/PDM عظیم/JJ کتاب/NN کے/PSP ساتھ/NN ‘/PU  جو/PRR دونوں/OD جہاں/NN میں/PSP ہمارے/PRS لیے/PSP صلاح/NN و/CC فلاح/NN اور/CC نجات/NN کا/PSP ذریعہ/NN بن/VBF سکتی/AUXM ہے/AUXT ‘/PU  ہم/PRP نے/PSP کیا/RB سلوک/NN کیا/VBF ؟/PU  اس/PRP کی/PSP کیا/RB قدر/NN فرمائی/VBF ؟/PU 
+علامہ/NN کا/PSP کہنا/VBI یہ/PRP ہے/VBF کہ/SC اگر/SC آپ/PRP نے/PSP مسلمان/NN رہتے/VBF ہوئے/AUXA جینا/VBI ہے/AUXT تو/SC وہ/PRP قرآن/NNP کے/PSP بغیر/PSP ممکن/JJ نہیں/NEG اور/CC اگر/SC یہ/PRP ممکن/JJ نہیں/NEG تو/SC پھر/SC یہ/PRP جاننا/VBI اور/CC سمجھنا/VBI نہایت/Q ضروری/JJ ہے/VBF کہ/SC قرآن/NNP ہم/PRP سے/PSP کیا/RB چاہتا/VBF ہے/AUXT اس/PRP کا/PSP مطالبہ/NN کیا/RB ہے/VBF اور/CC اس/PDM مطالبے/NN کو/PSP جاننے/VBI کے/PSP لیے/PSP ضروری/JJ ہے/VBF کہ/SC اس/PRP کا/PSP مطالعہ/NN کیا/VBF جائے/AUXA
+اسی/PDM مقصد/NN کو/PSP سامنے/NN رکھ/VBF کر/SCK مولانا/NN فتح/NNP محمد/NNP جالندھری/NNP نے/PSP کلام/NN پاک/JJ کا/PSP آسان/JJ رواں/JJ ترجمہ/NN کیا/VBF ہے/AUXT اس/PDM ترجمے/NN کی/PSP خوبی/NN یہ/PDM ہے/VBF کہ/SC اصل/JJ متن/NN کے/PSP نیچے/NN لفظی/JJ ترجمہ/NN اور/CC اس/PRP کے/PSP نیچے/NN بامحاورہ/JJ ترجمہ/NN دیا/VBF گیا/AUXA ہے/AUXT تاکہ/SC سمجھنے/VBI کے/PSP ساتھ/NN ساتھ/NN سیکھنے/VBI میں/PSP بھی/PRT آسانی/NN رہے/VBF ظاہر/NN ہے/VBF کہ/SC یہ/PRP ان/PDM لوگوں/NN کے/PSP لیے/PSP ہے/VBF جو/PRR اسے/PRP سیکھنے/VBI کی/PSP لگن/NN رکھتے/VBF ہوں/AUXT قرآن/NNP ہمیں/PRP زندگی/NN کے/PSP لائحہ‌عمل/NN کا/PSP ایک/CD  اجمالی/JJ خاکہ/NN دیتا/VBF ہے/AUXT ‘/PU  اس/PRP کی/PSP تشریح/NN و/CC تفصیل/NN حدیث/NN رسولﷺ/NNP سے/PSP ملتی/VBF ہے/AUXT
+ ۔/PU 

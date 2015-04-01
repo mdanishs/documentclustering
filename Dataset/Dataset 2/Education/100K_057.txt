@@ -1,0 +1,52 @@
+﻿برائےمہربانی/RB یا/CC برائےکرم/RB
+مہربانی/NN یا/CC کرم/NN سے/PSP
+پہلے/NN برائے/RB کا/PSP استعمال/NN بالکل/RB غلط/JJ ہے/VBF  ۔/PU 
+اس/PRP کی/PSP جگہ/NN ''/PU  براہِ/RB "/PU  لکھنا/VBI چاہیے/AUXM  ۔/PU 
+براہِ‌مہربانی/RB یا/CC براہِ‌کرم/RB  ۔/PU 
+تربیّت/NN
+صحیح/JJ لفظ/NN ''/PU 
+تربیت/NN "/PU  ہے/VBF  ۔/PU  پہلی/OD ''/PU  ت/NN "/PU  پر/PSP زبر/NN
+،/PU  ''/PU  ب/NN "/PU  کے/PSP نیچے/NN زیر/NN ،/PU  ''/PU  ی/NN "/PU 
+پر/PSP زبر/NN ،/PU  دوسری/OD ''/PU  ت/NN "/PU  پر/PSP جزم/NN ،/PU 
+''/PU  ی/NN "/PU  پر/PSP شد/NN ڈالنا/VBI بالکل/RB غلط/JJ ہے/VBF  ۔/PU 
+تربیت/NN کے/PSP معنی/NN ہیں/VBF پالنا/VBI ،/PU  حسنِ‌اخلاق/NN کی/PSP
+تعلیم/NN دینا/VBI ،/PU  ادب/NN سکھانا/NN ،/PU  پرورش/NN کرنا/VBI  ۔/PU 
+کبھی/NN بھی/PRT ،/PU  ابھی/NN بھی/PRT
+کبھی/NN اور/CC ابھی/NN کے/PSP
+بعد/NN بھی/PRT کا/PSP استعمال/NN فصاحت/NN کے/PSP خلاف/JJ
+ہے/AUXT  ۔/PU  یہ/PDM جملے/NN کو/PSP ثقیل/JJ بنا/VBF دیتا/AUXA
+ہے/AUXT  ۔/PU  اس/PRP سے/PSP احتراز/NN کرنا/VBI چاہیے/AUXM  ۔/PU 
+کُرَّہ/NN
+صحیح/JJ لفظ/NN ''/PU  کُرَہ/NN "/PU  ہے/VBF  ۔/PU  ''/PU  ر/NN پر/PSP شد/NN نہیں/NEG ہے/VBF (/PU  کُ/NN  ۔/PU  رَہ/NN )/PU  ،/PU  اس/PRP کا/PSP مطلب/NN ہے/VBF گولا/NN ،/PU  گیند/NN
+،/PU  ہر/JJ گول/JJ چیز/NN مثلاً/RB کرۂ‌ارض/NN (/PU  یعنی/CC تمام/Q
+زمین/NN )/PU  کرۂ/NN باد/NN (/PU  یعنی/CC ہوا/NN کا/PSP کرہ/NN
+جو/PRR زمین/NN کو/PSP محیط/JJ ہے/VBF  ۔/PU  )/PU  کرّۂ/NN
+ارض/NN یا/CC کرّۂ/NN باد/NN لکھنا/VBI بالکل/RB غلط/JJ ہے/VBF  ۔/PU 
+
+مکتبۂفکر/NN
+بعض/Q لوگ/NN دبستانِ‌فکر/NN (/PU  سکول/NN آف/PSP
+تھاٹ/NN (/PU  School/FF of/FF thought/FF کے/PSP معنوں/NN میں/PSP
+''/PU  مکتبہءفکر/NN "/PU  لکھتے/VBF ہیں/AUXT جو/PRR بالکل/RB غلط/JJ
+ہے/AUXT  ۔/PU  صحیح/JJ ترکیب/NN ''/PU  مکتبِ‌فکر/NN "/PU  ہے/VBF  ۔/PU 
+بعض/Q اصحاب/NN واحد/OD کی/PSP صورت/NN میں/PSP ''/PU 
+مکتبِ‌فکر/NN "/PU  صحیح/JJ لکھتے/VBF ہیں/AUXT مگر/CC جمع/NN کی/PSP
+صورت/NN میں/PSP ''/PU  مکاتیبِ‌فکر/NN "/PU  لکھتے/VBF ہیں/AUXT جو/PRR
+غلط/JJ ہے/VBF  ۔/PU  مکتب/NN کی/PSP جمع/NN مکاتِب/NN ہے/VBF  ۔/PU  اس/PRP لیے/PSP '/PU  مکاتبِ‌فکر/NN '/PU  لکھنا/VBI چاہیے/AUXM  ۔/PU 
+انکساری/NN ،/PU  تقرّری/NN ،/PU  تَنَزُّلی/NN ،/PU  فراری/NN
+انکسار/NN ،/PU 
+تقّرُر/NN ،/PU  تنزُّل/NN ،/PU  فرار/NN کی/PSP جگہ/NN انکساری/NN ،/PU 
+تقرّری/NN ،/PU  تنزّلی/NN ،/PU  فراری/NN لکھنا/VBI اور/CC بولنا/VBI
+فصاحت/NN کے/PSP خلاف/JJ (/PU  بلکہ/CC بعض/Q ماہرین/NN
+لسانیات/NNP کی/PSP رائے/NN میں/PSP بالکل/RB غلط/JJ )/PU  ہے/VBF  ۔/PU 
+گالی/NN نکالنا/VBI
+اُردو/NNP کا/PSP محاورہ/NN ''/PU  گالی/NN دینا/VBI
+"/PU  یا/CC ''/PU  گالی/NN بکنا/VBI "/PU  ہے/VBF  ۔/PU  گالی/NN (/PU 
+یا/CC گالیاں/NN )/PU  نکالنا/VBI غلط/JJ ہے/VBF  ۔/PU 
+غَیُّور/JJ
+بہت/Q سے/PSP ادیبوں/NN اور/CC شاعروں/NN کی/PSP تحریروں/NN اور/CC
+کلام/NN میں/PSP غَیُّور/JJ دیکھنے/VBI میں/PSP آتا/VBF ہے/AUXT  ۔/PU 
+حالانکہ/CC اس/PDM لفظ/NN میں/PSP ''/PU  یا/NN "/PU  (/PU  ی/NN )/PU 
+مشدّد/JJ نہیں/NEG ہے/VBF  ۔/PU  صحیح/JJ لفظ/NN ''/PU  غَیُور/NN "/PU 
+(/PU  غَ‌یُور/NN )/PU  ہے/VBF  ۔/PU 
+غَفَّاری/NN
+ ۔/PU 

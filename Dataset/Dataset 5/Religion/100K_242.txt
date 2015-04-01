@@ -1,0 +1,50 @@
+﻿رمضان‌المبارک/NNP کا/PSP بابرکت/JJ مہینہ/NN تھا/VBF ،/PU  فجر/NN
+کی/PSP اذان/NN حرم/NN سے/PSP بلند/JJ ہو/VBF کر/SCK بادِنسیم/NN
+کے/PSP ساتھ/NN کعبۃﷲ/NNP کے/PSP پردوں/NN سے/PSP لپٹ/VBF
+رہی/AUXP تھی/AUXT  ۔/PU  نمازی/NN کعبۃﷲ/NNP کی/PSP صفیں/NN
+درست/JJ کر/VBF رہے/AUXP تھے/AUXT  ۔/PU  اہل/NN مکہ/NNP اذان/NN
+سن/VBF کر/SCK بیتﷲ/NNP کی/PSP طرف/NN چل/VBF پڑے/AUXA
+لیکن/CC ایک/CD  چھیاسی/CD  سالہ/JJ بزرگ/NN اپنے/APNA گھر/NN میں/PSP
+بیٹھا/VBF رہا/AUXP  ۔/PU  یہ/PDM بزرگ/NN بھوک/NN کی/PSP وجہ/NN
+سے/PSP نماز/NN میں/PSP کھڑا/JJ نہیں/NEG ہو/VBF سکتا/AUXM
+تھا/AUXT  ۔/PU  اس/PRP بےچارے/JJ نے/PSP روزہ/NN بھی/PRT کچھ/Q
+کھائے/VBF پیے/VBF بغیر/PSP رکھا/VBF تھا/AUXT  ۔/PU  گزشتہ/JJ رات/NN
+بھی/PRT فاقے/NN سے/PSP گزری/VBF تھی/AUXT اور/CC دن/NN بھی/PRT
+بھوک/NN پیاس/NN کے/PSP عالم/NN میں/PSP گزرا/VBF  ۔/PU  جب/NN
+وہ/PRP گھر/NN میں/PSP جیسےتیسے/RB نماز/NN پڑھ/VBF چکا/AUXA
+،/PU تو/SC ایک/CD  کونے/NN میں/PSP شکستہ‌دل/JJ اور/CC غمگین/JJ
+ہو/VBF کر/SCK بیٹھ/VBF گیا/AUXA  ۔/PU  بذات‌خود/PRF اسے/PRP کوئی/PDM
+دکھ/NN نہ/NEG تھا/VBF کیونکہ/SC عرصہ‌دراز/NN کی/PSP تنگ‌دستی/NN
+نے/PSP اسے/PRP مصائب/NN برداشت/NN کرنے/VBI کا/PSP عادی/JJ
+بنا/VBF دیا/AUXA تھا/AUXT  ۔/PU  اسے/PRP تو/PRT چار/CD  بھوکی/JJ
+بیٹیوں/NN ،/PU  دو/CD  بہنوں/NN ،/PU  ایک/CD  بوڑھی/JJ ساس/NN اور/CC
+مسکین/JJ بیوی/NN کا/PSP غم/NN کھائے/VBF جا/AUXA رہا/AUXP تھا/AUXT
+جن/PRR کا/PSP وہ/PRP واحد/OD کفیل/NN تھا/VBF  ۔/PU 
+اگر/SCP اس/PRP کی/PSP جگہ/NN کوئی/PDM اور/JJ ہوتا/VBF تو/SC مالداروں/NN
+کی/PSP شاہ‌خرچیاں/NN دیکھ/VBF کر/SCK شاید/RB ان/PRP سے/PSP
+حسد/NN کرتا/VBF اور/CC خود/PRF بھی/PRT امیر/NN بننے/VBI کے/PSP
+لیے/PSP جائز/JJ و/CC ناجائز/JJ ذرائع/NN اختیار/NN کرتا/VBF  ۔/PU 
+لیکن/SCP یہ/PDM بزرگ/NN مثالی/JJ مومن/NN تھا/VBF  ۔/PU  وہ/PRP
+اس/PDM بات/NN پر/PSP پختہ/JJ یقین/NN رکھتا/VBF تھا/AUXT کہ/SC
+رب/NNP کائنات/NN نے/PSP اپنی/APNA قدرت‌کاملہ/NN اور/CC
+حکمت‌بالغہ/NN سے/PSP رزق/NN تقسیم/NN کر/VBF رکھا/AUXA ہے/AUXT
+اور/CC اس/PDM سلسلے/NN میں/PSP کسی/PDM کا/PSP کچھ/Q اختیار/NN
+نہیں/NEG  ۔/PU  انسان/NN نہ/NEG کسی/PRP کو/PSP رزق/NN دے/VBF
+سکتا/AUXM ہے/AUXT اور/CC نہ/NEG روک/VBF سکتا/AUXM ہے/AUXT
+،/PU  اور/CC جو/PRR کُچھ/Q مقدر/NN میں/PSP ہے/VBF ،/PU  وہ/PRP
+مل/VBF کر/SCK رہتا/VBF ہے/AUXT  ۔/PU  وہ/PRP اکثر/RB ٹھنڈی/JJ
+سانس/NN بھرتا/VBF اور/CC کہتا/VBF "/PU  الحمدللہ‌علیٰ‌کلِ‌حال/FF "/PU 
+(/PU  میں/PRP ہر/JJ حال/NN میں/PSP ﷲ/NNP کا/PSP شکر/NN ادا/NN
+کرتا/VBF ہوں/AUXT )/PU 
+اپنی/APNA سوچوں/NN میں/PSP گم/NN تھا/VBF
+کہ/SC ایک/CD  عورت/NN آئی/VBF جس/PRR کا/PSP تن/NN پیوند/NN
+لگی/VBF ہوئی/AUXA میلی‌کچیلی/JJ چادر/NN سے/PSP ڈھکا/VBF ہوا/AUXA
+تھا/AUXT  ۔/PU 
+عورت/NN نے/PSP کہا/VBF "/PU  ابوغیاث/NNP !/PU  آج/NN
+دوسرا/OD دن/NN ہے/VBF ہم/PRP نے/PSP کھانا/NN تک/PSP نہیں/NEG
+کھایا/VBF  ۔/PU  گرمیوں/NN اور/CC روزوں/NN کے/PSP دن/NN چل/VBF
+رہے/AUXP ہیں/AUXT  ۔/PU  میں/PRP اور/CC آپ/PRP تو/PRT صبر/NN
+کر/VBF لیں/AUXA گے/AUXT مگر/CC بچیاں/NN اور/CC میری/PRS بوڑھی/JJ
+ماں/NN صبر/NN سے/PSP قاصر/JJ ہیں/VBF  ۔/PU  انہیں/PRP بھوک/NN
+نے/PSP نڈھال/JJ کر/VBF رکھا/AUXA ہے/AUXT  ۔/PU  "/PU 
+

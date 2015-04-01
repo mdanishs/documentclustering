@@ -1,0 +1,9 @@
+﻿جھک/VBF کر/SCK بھاگنے/VBI کا/PSP انداز/NN
+۱۹۰۸/CD  ء/SYM سے/PSP پہلے/NN دوڑ/NN لگانے/VBI والے/VALA کھلاڑی/NN کھڑے/JJ کھڑے/JJ دوڑ/NN کا/PSP آغاز/NN کرتے/VBF تھے/AUXT  ۔/PU  ۱۹۰۸/CD  ء/SYM میں/PSP ٹیل‌یونیورسٹی/NNP اور/CC امریکی/JJ اولمپک/NNP ٹریک/NN ٹیموں/NN کے/PSP کوچ/NN نے/PSP تجویز/NN پیش/NN کی/VBF کہ/SC کھلاڑی/NN گھٹنوں/NN کے/PSP بل/NN جھک/VBF کر/SCK دوڑ/NN کا/PSP آغاز/NN کریں/VBF کیونکہ/SC اس/PRP طرح/NN وہ/PRP فوراً/RB اپنی/APNA تیزترین/JJ رفتار/NN حاصل/NN کر/VBF سکتے/AUXM ہیں/AUXT  ۔/PU  یہ/PDM تجویز/NN جلد/RB منظور/NN کر/VBF لی/AUXA گئی/AUXA  ۔/PU 
+باسکٹ‌بال/NNP کیسے/RB ایجاد/NN ہوا/VBF ؟/PU 
+چند/Q ہی/PRT برسوں/NN میں/PSP یہ/PDM نیا/JJ کھیل/NN پورے/JJ امریکا/NNP میں/PSP کھیلا/VBF جانے/AUXA لگا/AUXA اور/CC پہلی/OD جنگ‌عظیم/NNP کے/PSP بعد/NN ایک/CD  اہم/JJ بین‌الاقوامی/JJ کھیل/NN بن/VBF گیا/AUXA  ۔/PU 
+مکےبازی/NNP کے/PSP خطرناک/JJ مقابلے/NN
+امریکا/NNP میں/PSP بیسویں/OD صدی/NN کے/PSP آغاز/NN میں/PSP مکےبازی/NNP کے/PSP مقابلے/NN ایک/CD  طرح/NN کا/PSP جوا/NN تھے/VBF اور/CC ان/PRP پر/PSP لاکھوں/OD ڈالروں/NNP کا/PSP جوا/NN کھیلا/VBF جاتا/AUXA  ۔/PU  وہ/PRP مقابلے/NN عموماً/RB کئی/Q راؤنڈ/NN تک/PSP چلتے/VBF  ۔/PU  اگر/SCP دونوں/OD کھلاڑی/NN مضبوط/JJ ہوتے/VBF تو/SC مقابلہ/NN ایک/CD  سو/CD  راؤنڈ/NN تک/PSP بھی/PRT چلا/VBF جاتا/AUXA  ۔/PU  حیرت‌ناک/JJ امر/NN یہ/PDM ہے/VBF کہ/SC اس/PDM زمانے/NN میں/PSP مکےباز/NN ہاتھوں/NN پر/PSP دستانے/NN نہیں/NEG پہنتے/VBF تھے/AUXT  ۔/PU 
+روس/NNP میں/PSP فٹ‌بال/NNP کا/PSP احیا/NN
+۱۹۰۳/CD  ء/SYM میں/PSP برطانیہ/NNP کے/PSP علاقے/NN لنکاشائر/NNP سے/PSP تعلق/NN رکھنے/VBI والے/VALA دو/CD  بھائیوں/NN نے/PSP ماسکو/NNP میں/PSP کپاس/NN کی/PSP صنعت/NN متعارف/JJ کروائی/VBF  ۔/PU  ان/PRP میں/PSP سے/PSP ایک/CD  بھائی/NN فٹ‌بال/NNP کا/PSP شوقین/JJ تھا/VBF لہٰذا/SC پہلی/OD روسی/JJ فٹ‌بال/NNP ٹیم/NN '/PU  موروزونسی/NNP '/PU  بنائی/VBF جو/PRR ۱۹۱۴/CD  ء/SYM تک/PSP مسلسل/RB قومی/JJ روسی/JJ فٹ‌بال/NNP چیمپئین‌شپ/NN جیتتی/VBF رہی/AUXP  ۔/PU 
+ 

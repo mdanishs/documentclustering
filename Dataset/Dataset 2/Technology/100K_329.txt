@@ -1,0 +1,11 @@
+﻿انٹرنیٹ/NN میں/PSP کئی/Q پروگرام/NN مفت/JJ مل/VBF جاتے/AUXA ہیں/AUXT  ۔/PU  ان/PRP میں/PSP سے/PSP کچھ/Q درج‌ذیل/JJ ہیں/VBF  ۔/PU  اگر/SCP کسی/PDM سافٹ‌ویئر/NN میں/PSP کوئی/PDM وائرس/NN یا/CC اسپائی‌ویئر/NN چھپا/VBF ہو/AUXT ،/PU تو/SC ہم/PRP اس/PRP کے/PSP ذمےدار/JJ نہیں/NEG  ۔/PU 
+ری‌سائیکل‌بن/NN کو/PSP آگ/NN لگائیے/VBF
+پاکستان/NNP میں/PSP کچرے/NN کا/PSP ڈھیر/NN ٹھکانے/NN لگانے/VBI کے/PSP لیے/PSP خاکروب/NN بڑی/JJ سہولت/NN سے/PSP انھیں/PRP آگ/NN لگا/VBF کر/SCK زمینی/JJ آلودگی/NN کو/PSP فضائی/JJ آلودگی/NN میں/PSP بدل/VBF دیتے/AUXA ہیں/AUXT  ۔/PU  لگتا/VBF ہے/AUXT کسی/PDM ڈویلپر/NN نے/PSP پاکستان/NNP میں/PSP یہ/PDM منظر/NN دیکھا/VBF اور/CC ایک/CD  سافٹ‌ویئر/NN بنا/VBF کر/SCK مفت/JJ پیش/NN کر/VBF دیا/AUXA  ۔/PU  اس/PDM یوٹیلٹی/NN کو/PSP ڈاؤن‌لوڈ/NN کرتے/VBF ہی/PRT آپ/PRP کا/PSP ری‌سائیکل‌بن/NN بدل/VBF جائے/AUXA گا/AUXT  ۔/PU  آپ/PRP جوںہی/RB فالتو/JJ فائل/NN یا/CC فولڈر/NN کھینچ/VBF کر/SCK اس/PRP میں/PSP ڈالیں/VBF گے/AUXT تو/SC آگ/NN کا/PSP شعلہ/NN نمودار/JJ ہو/VBF گا/AUXT  ۔/PU  یہ/PDM منظر/NN شاید/RB آپ/PRP کو/PSP اتنا/Q اچھا/JJ لگے/VBF کہ/SC دھڑادھڑ/RB فولڈر/NN اس/PRP میں/PSP ڈال/VBF کر/SCK آگ/NN لگائیں/VBF اور/CC خوش/JJ ہوں/AUXT  ۔/PU  مگر/SCP کام/NN کی/PSP چیزیں/NN اس/PRP میں/PSP ڈالنے/VBI سے/PSP گریز/NN کیجئے/VBF گا/AUXT  ۔/PU 
+فائل/NN سائز/NN :/PU  ۱۶۷/CD  کلوبائٹ/NN ،/PU  سسٹم/NN :/PU  برائے/RB تمام/Q ونڈوز/NN
+ویب/NN کا/PSP پتا/NN :/PU  geocities.com/pjak_uk/FF
+اسٹارٹ‌اپ/NN ہوم‌پیج/NN کو/PSP بدلنے/VBI سے/PSP بچائیں/VBF
+اس/PDM وقت/NN بہت/Q غصہ/NN آتا/VBF ہے/AUXT جب/NN کوئی/PDM اسپائی‌ویئر/NN یا/CC سافٹ‌ویئر/NN سسٹم/NN میں/PSP گھس/VBF کر/SCK براؤزر/NN کا/PSP ہوم‌پیج/NN بدل/VBF دے/AUXA  ۔/PU  پھر/SCP لاکھ/CD  کوشش/NN کے/PSP باوجود/RB اس/PRP کا/PSP ہوم‌پیج/NN نہیں/NEG بدلتا/VBF ،/PU  براؤزنگ/NN کے/PSP دوران/NN وہ/PRP ہزاروں/OD پوپ‌اپ/NN اشتہارات/NN دکھاتا/VBF ہے/AUXT اور/CC ہم/PRP بےبس/JJ نظر/NN آتے/VBF ہیں/AUXT  ۔/PU  یہ/PRP ننھا/JJ سا/PRT پروگرام/NN ویب‌براؤزر/NN کے/PSP ہوم‌پیج/NN کی/PSP سیٹنگ/NN پر/PSP مسلسل/RB نظر/NN رکھتا/VBF ہے/AUXT اور/CC اسے/PRP بدلنے/VBI سے/PSP محفوظ/JJ رکھتا/VBF ہے/AUXT  ۔/PU 
+فائل/NN سائز/NN :/PU  ۶۳۸/CD  کلوبائٹ/NN ،/PU  سسٹم/NN :/PU  برائے/RB ونڈوز/NN تمام/Q
+ویب/NN کا/PSP پتا/NN :/PU  pjwalczak.com/index/php/FF
+کون/PRP سی/PRT پورٹ/NN کس/PDM حالت/NN میں/PSP ؟/PU 
+

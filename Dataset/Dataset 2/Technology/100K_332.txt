@@ -1,0 +1,14 @@
+﻿دبئی/NNP میں/PSP حال/NN ہی/PRT میں/PSP ایک/CD  ایسی/PDM انوکھی/JJ بس/NN چلانے/VBI کا/PSP آغاز/NN ہوا/VBF ہے/AUXT جو/PRR پانی/NN اور/CC خشکی/NN ،/PU  دونوں/OD پر/PSP چلتی/VBF ہے/AUXT  ۔/PU  یہ/PRP خاص/JJ قسم/NN کی/PSP '/PU  ونڈر/NN بس/NN '/PU  ہے/VBF اور/CC اس/PRP کے/PSP اندر/NN بحری‌جہاز/NN کا/PSP نظام/NN نصب/NN ہے/VBF  ۔/PU  اس/PRP کی/PSP تیاری/NN پر/PSP پچیس/CD  ملین/CD  روپے/NN خرچ/NN آیا/VBF ہے/AUXT  ۔/PU 
+دنیا/NN کا/PSP بلندترین/JJ پٹرول/NN پمپ/NN :/PU 
+مقبوضہ‌کشمیر/NNP کے/PSP ضلع/NN لداخ/NNP کے/PSP صدرمقام/NN لیّہ/NNP میں/PSP دنیا/NN کا/PSP سب/Q سے/PSP بلندترین/JJ پٹرول‌پمپ/NN لگایا/VBF گیا/AUXA ہے/AUXT  ۔/PU  یہ/PRP ۲۰/CD  ہزار/CD  ۳۰۰/CD  فٹ/NN کی/PSP بلندی/NN پر/PSP قائم/JJ ہے/VBF  ۔/PU  ۲۱۰/CD  میل/NN لمبی/JJ پائپ‌لائن/NN کے/PSP ذریعے/NN اِسے/PRP پٹرول/NN پہنچایا/VBF جاتا/AUXA ہے/AUXT  ۔/PU 
+اڑن‌کرسی/NN :/PU 
+امریکا/NNP کے/PSP خلائی/JJ ادارے/NN '/PU  ناسا/NNP '/PU  کے/PSP ڈاکٹر/NN جان/NNP بران/NNP نے/PSP ایسی/PDM کرسی/NN ایجاد/NN کی/VBF ہے/AUXT جو/PRR ہوائی‌جہاز/NN کی/PSP طرح/NN فضا/NN میں/PSP اُڑ/VBF سکتی/AUXM ہے/AUXT  ۔/PU  یہ/PRP گردن/NN کے/PSP اشارے/NN پر/PSP چلتی/VBF ہے/AUXT  ۔/PU  اسے/PRP جدھر/NN موڑنا/VBI چاہیں/AUXA تو/SC گردن/NN کو/PSP اسی/PDM طرف/NN گھما/VBF لیا/AUXA جاتا/AUXA ہے/AUXT  ۔/PU 
+موٹا/JJ شہر/NN :/PU 
+ڈیٹرائٹ/NNP امریکا/NNP کا/PSP ایک/CD  شہر/NN ہے/VBF  ۔/PU  اسے/PRP '/PU  موٹوں/NN کا/PSP شہر/NN '/PU  بھی/PRT کہتے/VBF ہیں/AUXT  ۔/PU  کیونکہ/SCP یہاں/NN کی/PSP اکثریت/NN موٹاپے/NN کا/PSP شکار/NN ہے/VBF  ۔/PU  ڈیٹرائٹ/NNP کے/PSP میئر/NN کا/PSP کہنا/NN ہے/VBF :/PU 
+''/PU  ہمارے/PRS شہر/NN میں/PSP زندگی/NN بہت/Q زیادہ/Q '/PU  آٹوموٹو/NN '/PU  ہے/VBF  ۔/PU  "/PU 
+موٹاپے/NN کی/PSP وجہ/NN یہ/PDM ہے/VBF کہ/SC یہاں/NN کے/PSP لوگ/NN گاڑیوں/NN اور/CC مشینوں/NN کا/PSP حد/NN سے/PSP زیادہ/Q استعمال/NN کرتے/VBF ہیں/AUXT  ۔/PU 
+ٹھنڈا/JJ گرم/JJ چشمہ/NN :/PU 
+'/PU  سمرقند/NNP '/PU  کے/PSP پہاڑوں/NN میں/PSP ایک/CD  عجیب‌وغریب/JJ چشمہ/NN ہے/VBF  ۔/PU  اس/PRP کا/PSP پانی/NN سردیوں/NN میں/PSP اتنا/Q سرد/JJ ہوتا/VBF ہے/AUXT کہ/SC برف/NN کی/PSP طرح/NN جم/VBF جاتا/AUXA ہے/AUXT جبکہ/CC سردیوں/NN میں/PSP اتنا/Q گرم/JJ کہ/SC اس/PRP میں/PSP انڈا/NN ابالا/VBF جا/AUXA سکتا/AUXM ہے/AUXT  ۔/PU 
+نیند/NN :/PU 
+بلوچستان/NNP کے/PSP علاقے/NN '/PU  روجھان/NNP '/PU  کا/PSP ۸۶/CD  سالہ/JJ رسول/NNP بخش/NNP پچھلے/JJ ۴۵/CD  سال/NN سے/PSP ایک/CD  منٹ/NN کے/PSP لیے/PSP بھی/PRT نہیں/NEG سو/VBF سکا/AUXM  ۔/PU  یہ/PDM بات/NN نہیں/NEG کہ/SC وہ/PRP کام/NN کرتا/VBF رہا/AUXP اور/CC اسے/PRP سونے/VBI کے/PSP لیے/PSP وقت/NN نہیں/NEG مل/VBF سکا/AUXM بلکہ/CC ۴۵/CD  سال/NN قبل/NN ہونے/VBI والے/VALA ایک/CD  حادثے/NN نے/PSP اسے/PRP نیند/NN جیسی/PRR نعمت/NN سے/PSP محروم/JJ کر/VBF دیا/AUXA ہے/AUXT  ۔/PU 
+ ۔/PU 

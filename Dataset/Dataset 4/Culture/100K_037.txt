@@ -1,0 +1,68 @@
+﻿سورج/NNP کی/PSP پہلی/OD کرن/NN کب/NN اور/CC کہاں/PRP طلوع/NN
+ہوئی/VBF ،/PU  کسے/PRP معلوم/NN ،/PU  لیکن/CC تاریخ/NN شاہد/JJ
+ہے/AUXT کہ/SC وہ/PDM صبح/NN جو/PRR آج/NN سے/PSP ڈیڑھ/FR
+صدی/NN قبل/NN میرٹھ/NNP کی/PSP ایک/CD  چھاؤنی/NN میں/PSP طلوع/NN
+ہوئی/VBF ،/PU  اس/PRP سے/PSP بھی/PRT تقریباً/RB ایک/CD  صدی/NN
+پہلے/NN بنگال/NNP کے/PSP دَروبام/NN پر/PSP اپنے/APNA سورج/NNP
+کا/PSP سونا/NN بکھیر/VBF چکی/AUXA تھی/AUXT  ۔/PU 
+سلام/NN ہو/VBF ان/PDM سپاہیوں/NN پر/PSP جنہوں/PRR نے/PSP فرنگی/JJ تسلط/NN
+کے/PSP خلاف/JJ پہلی/OD بار/NN جنگ/NN کا/PSP عَلم/NN بلند/JJ کیا/VBF  ۔/PU  انہوں/PRP نے/PSP کمپنی/NN کی/PSP ملازمت/NN کی/VBF تھی/AUXT
+،/PU  لیکن/CC اس/PDM وفاداری/NN کی/PSP قیمت/NN پر/PSP نہیں/NEG
+جو/PRR انہیں/PRP اپنے/APNA وطن/NN سے/PSP تھی/VBF اور/CC
+اس/PDM آزادی/NN کی/PSP قیمت/NN پر/PSP نہیں/NEG جو/PRR ان/PRP
+کے/PSP مزاج/NN کا/PSP حصہ/NN تھی/VBF  ۔/PU 
+بعدازاں/RB بارک‌پور/NNP ،/PU  میرٹھ/NNP ،/PU  بریلی/NNP اور/CC لکھنؤ/NNP کے/PSP
+سپاہی/NN ،/PU  جنہوں/PRR نے/PSP فرنگی/JJ تسلط/NN کے/PSP خلاف/JJ
+علم/NN جہاد/NN لہرایا/VBF تھا/AUXT ،/PU  آخر/RB انہی/PDM اجداد/NN
+کے/PSP فرزند/NN تھے/VBF  ۔/PU  انہوں/PRP نے/PSP اپنے/APNA
+وقار/NN ،/PU  عزتِ‌نفس/NN ،/PU  آزادی/NN اور/CC اس/PRP کی/PSP
+روایات/NN کے/PSP لیے/PSP بنگال/NNP ،/PU  حیدرآباد/NNP ،/PU 
+مدراس/NNP ،/PU  مالی‌گاؤں/NNP اور/CC پنجاب/NNP میں/PSP فرنگیوں/NN
+کے/PSP خلاف/JJ مورچے/NN لگائے/VBF اور/CC اپنی/APNA جانیں/NN
+نچھاور/NN کیں/VBF  ۔/PU 
+۱۸۵۷/CD  ء/SYM کا/PSP معرکہ/NN پہلا/OD منظم/JJ
+اقدام/NN تھا/VBF لیکن/CC ہم/PRP ان/PDM سپاہیوں/NN کو/PSP کیسے/RB
+بھول/VBF سکتے/AUXM ہیں/AUXT جنہوں/PRR نے/PSP انگریزوں/NN
+کے/PSP خلاف/JJ '/PU  سازش/NN ،/PU  اور/CC جہاد/NN کی/PSP طرح/NN
+ڈالی/VBF  ۔/PU  جن/PRR کا/PSP نام/NN تاریخ/NN کی/PSP کتابوں/NN
+میں/PSP محفوظ/JJ نہیں/NEG ،/PU  جو/PRR گوشہ/NN گمنامی/NN میں/PSP
+پیدا/NN ہوئے/VBF اور/CC میدان/NN جنگ/NN میں/PSP شہید/JJ ہو/VBF
+گئے/AUXA لیکن/CC جن/PRR کا/PSP جذبۂعمل/NN روح/NN عصر/NN بن/VBF
+کر/SCK آج/NN بھی/PRT کارفرما/JJ ہے/VBF  ۔/PU 
+۱۸۶۴/CD  ء/SYM :/PU 
+بنگال/NNP فوج/NN کی/PSP پہلی/OD بغاوت/NN
+۱۸۶۴/CD  ء/SYM :/PU  بنگال/NNP
+فوج/NN کی/PSP دوسری/OD بغاوت/NN
+۱۸۹۰/CD  ء/SYM :/PU  وزیگاپٹم/NNP
+۱۸۰۶/CD 
+ء/SYM :/PU  حیدرآباد/NNP (/PU  دکن/NNP )/PU 
+۱۸۰۶/CD  ء/SYM :/PU 
+نندی‌درگ/NNP
+۱۸۰۶/CD  ء/SYM :/PU  پالیم‌کوٹا/NNP
+۱۸۰۶/CD  ء/SYM :/PU  ویلور/NNP
+(/PU  مدراس/NNP )/PU 
+۱۸۰۶/CD  ء/SYM :/PU  والا/NNP جاہ‌آباد/NNP
+۱۸۰۹/CD  ء/SYM
+:/PU  مدراس/NNP فوج/NN
+۱۸۴۲/CD  ء/SYM :/PU  بارک‌پور/NNP (/PU  کلکتہ/NNP )/SYM
+۱۸۴۰/CD  ء/SYM :/PU  اسّی‌گڑھ/NNP
+۱۸۴۰/CD  ء/SYM :/PU  مالیگاؤں/NNP (/PU 
+بمبئی/NNP )/PU 
+۱۸۴۰/CD  ء/SYM :/PU  سکندرآباد/NNP (/PU  دکن/NNP )/PU 
+۱۸۴۴/CD  ء/SYM :/PU  جبل‌پور/NNP
+۱۸۴۴/CD  ء/SYM :/PU  فیروزپور/NNP
+۱۸۴۴/CD  ء/SYM
+:/PU  مدراس/NNP فوج/NN (/PU  بمبئی/NNP )/PU 
+۱۸۴۹/CD  ء/SYM :/PU 
+وزیرآباد/NNP (/PU  پنجاب/NNP )/PU 
+۱۸۵۰/CD  ء/SYM :/PU  گوبندگڑھ/NNP
+۱۸۵۰/CD  ء/SYM :/PU  بہرام‌پور/NNP (/PU  بنگال/NNP )/PU 
+آمد/NN آمد/NN
+۲۷/CD 
+/CD  فروری/NNP ۱۸۵۷/CD  ء/SYM :/PU  بہرام‌پور/NNP میں/PSP بغاوت/NN
+۱۷/CD  مارچ/NNP ۱۸۵۸/CD  ء/SYM :/PU  بارک‌پور/NNP میں/PSP بغاوت/NN
+۸/CD 
+۳/CD  اپریل/NNP ۱۹۵۷/CD  ء/SYM :/PU  منگل/NNP پانڈے/NNP کی/PSP پھانسی/NN
+
+/CD  مئی/NNP ۱۸۵۷/CD  ء/SYM :/PU  لکھنؤ/NNP میں/PSP بغاوت/NN
+ ۔/PU 

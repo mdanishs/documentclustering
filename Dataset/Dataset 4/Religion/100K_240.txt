@@ -1,0 +1,18 @@
+﻿امام/NN محمد/NNP بطور/RB استاد/NN
+صاحبین/NN نے/PSP قریب/NN پہنچ/VBF کر/SCK سلام/NN کیا/VBF  ۔/PU  محمد/NNP بن/NN ادریس/NNP نے/PSP مسکراتے/VBF ہوئے/AUXA چہرے/NN کے/PSP ساتھ/NN کھڑے/VBF ہو/AUXA کر/SCK ان/PRP کا/PSP استقبال/NN کیا/VBF  ۔/PU  پھر/SCP دونوں/OD بزرگ/NN بیٹھ/VBF گئے/AUXA اور/CC محمد/NNP بن/NN ادریس/NNP بھی/PRT نہایت/Q ادب/NN کے/PSP ساتھ/NN ان/PRP کے/PSP سامنے/NN بیٹھ/VBF گیا/AUXA  ۔/PU  امام/NN محمد/NNP نے/PSP گفتگو/NN کا/PSP آغاز/NN کیا/VBF  ۔/PU 
+"/PU  کیا/RB آپ/PRP حرم/NNP کے/PSP رہنے/VBI والے/VALA ہیں/AUXT "/PU   ۔/PU 
+"/PU  جی/INJ ہاں/INJ !/PU  میں/PRP حرم/NNP کا/PSP باشندہ/NN ہوں/VBF "/PU   ۔/PU 
+"/PU  آپ/PRP عرب/NN ہیں/VBF یا/CC عجم/NN کی/PSP اولاد/NN ہیں/VBF ؟/PU  "/PU 
+"/PU  میں/PRP عرب/NN کی/PSP اولاد/NN ہوں/VBF "/PU   ۔/PU 
+"/PU  کون/PRP عرب/NN ؟/PU  "/PU 
+"/PU  مطّلب/NNP کی/PSP اولاد/NN سے/PSP ہوں/VBF "/PU   ۔/PU 
+"/PU  مطّلب/NNP کی/PSP کس/PDM اولاد/NN سے/PSP ؟/PU  "/PU 
+"/PU  شافعؓ/NNP کی/PSP اولاد/NN سے/PSP "/PU   ۔/PU 
+"/PU  کیا/RB تم/PRP نے/PSP مالکؒ/NNP کو/PSP دیکھا/VBF ہے/AUXT ؟/PU  "/PU 
+"/PU  جی/INJ ہاں/INJ !/PU  میں/PRP آٹھ/CD  نو/CD  مہینے/NN ان/PRP کے/PSP پاس/NN رہا/VBF ہوں/AUXT اور/CC اِس/PDM وقت/NN انہی/PRP کے/PSP پاس/NN سے/PSP آ/VBF رہا/AUXP ہوں/AUXT "/PU   ۔/PU 
+"/PU  کیا/RB آپ/PRP نے/PSP امام/NN مالک/NNP کی/PSP کتاب/NN موطا/NNP بھی/PRT دیکھی/VBF ہے/AUXT ؟/PU  "/PU 
+"/PU  دیکھی/VBF ہی/PRT نہیں/NEG بلکہ/CC پوری/JJ طرح/NN موطا/NNP اللّٰہ/NNP کے/PSP فضل/NN سے/PSP مجھے/PRP حفظ/NN ہے/VBF "/PU   ۔/PU 
+یہ/PRP سن/VBF کر/SCK امام/NN محمد/NNP خاموش/JJ ہو/VBF گئے/AUXA  ۔/PU  ان/PRP کے/PSP چہرے/NN کے/PSP تاثرات/NN سے/PSP یہ/PDM محسوس/NN ہو/VBF رہا/AUXP تھا/AUXT کہ/SC انھیں/PRP اس/PDM بات/NN کا/PSP یقین/NN نہیں/NEG  ۔/PU  اُسی/PDM وقت/NN انھوں/PRP نے/PSP کاغذ/NN اور/CC قلم/NN منگوایا/VBF اور/CC کاغذ/NN پر/PSP کچھ/Q سوالات/NN لکھے/VBF اور/CC ہر/JJ سوال/NN کے/PSP بیچ/NN میں/PSP جواب/NN لکھنے/VBI کے/PSP لیے/PSP خالی/JJ جگہ/NN چھوڑ/VBF دی/AUXA اور/CC کاغذ/NN قلم/NN محمد/NNP بن/NN ادریس/NNP کی/PSP طرف/NN بڑھاتے/VBF ہوئے/AUXA کہا/VBF :/PU 
+"/PU  لیجئے/VBF ان/PDM مسائل/NN کے/PSP جوابات/NN موطا/NNP امام/NN مالکؒ/NNP کی/PSP روشنی/NN میں/PSP لکھئے/VBF "/PU   ۔/PU 
+محمد/NNP بن/NN ادریس/NNP نے/PSP کاغذ/NN قلم/NN ہاتھ/NN میں/PSP لیے/VBF اور/CC بسم‌اللّٰہ/NN کر/VBF کے/SCK کتاب‌اللّٰہ/NNP ،/PU  سنت‌رسول/NNP اور/CC اجماع‌اُمت/NNP کی/PSP روشنی/NN میں/PSP تمام/Q مسائل/NN کے/PSP جوابات/NN لکھ/VBF دئیے/AUXA اور/CC کاغذ/NN امام/NN محمد/NNP کی/PSP طرف/NN بڑھا/VBF دیا/AUXA  ۔/PU 
+ ۔/PU 

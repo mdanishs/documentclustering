@@ -1,0 +1,48 @@
+﻿دلچسپ/JJ امر/NN یہ/PDM ہے/VBF کہ/SC ہنڈورس/NNP میں/PSP آپ/PRP
+اپنی/APNA مرضی/NN کی/PSP آب‌وہوا/NN چن/VBF سکتے/AUXM ہیں/AUXT
+کیونکہ/SC یہاں/NN ہر/JJ وادی/NN کی/PSP اپنی/APNA آب‌وہوا/NN ہے/VBF
+تاہم/SC کچھ/Q عوامل/NN پورے/JJ ملک/NN میں/PSP پھیلے/VBF
+ہوئے/AUXA ہیں/AUXT  ۔/PU 
+ہنڈورس/NNP کے/PSP مرکزی/JJ ،/PU  جنوبی/JJ
+اور/CC مغربی/JJ علاقوں/NN میں/PSP باضابطہ/JJ طور/NN پر/PSP موسم/NN
+برسات/NN مئی/NNP سے/PSP لے/VBF کر/SCK اکتوبر/NNP یا/CC
+نومبر/NNP تک/PSP رہتا/VBF ہے/AUXT  ۔/PU  اندرون/JJ ملک/NN پہاڑوں/NN
+پر/PSP باقاعدگی/NN سے/PSP موسلادھار/JJ بارشیں/NN برستی/VBF
+ہیں/AUXT  ۔/PU  سال/NN کے/PSP باقی/JJ حصے/NN میں/PSP بہت/Q کم/Q
+بارشیں/NN ہوتی/VBF ہیں/AUXT  ۔/PU  اگرچہ/SCP شمالی/JJ ساحل/NN
+کے/PSP ساتھ/NN ساتھ/NN جہاں/NN ہوائیں/NN سارا/JJ سال/NN مستقلاً/RB
+سمندر/NN سے/PSP خشکی/NN کی/PSP جانب/NN چلتی/VBF ہیں/AUXT ،/PU 
+زوردار/JJ بارشیں/NN تسلسل/NN سے/PSP ہوتی/VBF ہیں/AUXT  ۔/PU 
+سب/Q سے/PSP پہلے/NN ملک/NN کے/PSP مغربی/JJ علاقوں/NN میں/PSP
+بستیاں/NN بسائی/VBF گئی/AUXA تھیں/AUXT جہاں/NN وادیاں/NN کثرت/NN
+سے/PSP ہیں/VBF  ۔/PU  آج/NN بھی/PRT یہی/PDM علاقہ/NN گنجان/JJ
+آباد/JJ ہے/VBF  ۔/PU  وادیوں/NN کی/PSP آخری/JJ حدوں/NN پر/PSP
+واقع/NN نشیبی/JJ علاقوں/NN اور/CC پہاڑی/JJ ڈھلانوں/NN پر/PSP مکئی/NN
+،/PU  کافی/NN ،/PU  لوبیا/NN اور/CC جوار/NN کی/PSP قسم/NN کا/PSP
+ایک/CD  پودا/NN "/PU  سرغو/NNP "/PU  (/PU  Sorghum)/PU 
+کاشت/NN کیا/VBF جاتا/AUXA ہے/AUXT  ۔/PU  کم/Q بلند/JJ علاقوں/NN میں/PSP گنا/NN
+،/PU  چاول/NN ،/PU  تمباکو/NN اور/CC سبزیاں/NN اُگائی/VBF جاتی/AUXA
+ہیں/AUXT  ۔/PU 
+
+ہنڈورس/NNP کے/PSP مشرقی/JJ اور/CC شمالی/JJ
+علاقوں/NN میں/PSP گھاس/NN کے/PSP وسیع/JJ میدان/NN ہیں/VBF ،/PU 
+وہاں/NN پہاڑ/NN ہونے/VBI کے/PSP باعث/NN بارش/NN کم/Q ہوتی/VBF
+ہے/AUXT  ۔/PU  دور/NN غلامی/NN میں/PSP خصوصاً/RB اور/CC آج/NN
+بھی/PRT اس/PDM علاقے/NN میں/PSP بڑے/JJ بڑے/JJ مویشی‌خانے/NN
+قائم/JJ ہیں/VBF  ۔/PU 
+بحیرہ/NN کریبئین/NNP کا/PSP ساحلی/JJ علاقہ/NN
+انیسویں/OD صدی/NN کے/PSP آخر/NN تک/PSP غیرآباد/JJ رہا/VBF  ۔/PU 
+ہسپانوی/JJ حملہ‌آور/NN وہاں/NN پہنچ/VBF گئے/AUXA مگر/CC ملیریا/NN
+اور/CC زرد/JJ بخار/NN جیسی/PRR خوفناک/JJ بیماریوں/NN کا/PSP
+شکار/NN ہوتے/VBF رہے/AUXP  ۔/PU  ساتھ/NN ساتھ/NN انہیں/PRP
+حشرات‌الارض/NN ،/PU  طوفانی/JJ بارشوں/NN ،/PU  جنگلی/JJ جانوروں/NN
+،/PU  بےپناہ/JJ درجہ‌حرارت/NN اور/CC گھنے/JJ جنگلات/NN سے/PSP
+بھی/PRT واسطہ/NN پڑا/VBF  ۔/PU  صرف/JJ پچھلے/JJ سو/CD  برس/NN
+میں/PSP اس/PDM علاقے/NN کو/PSP کیلے/NN کی/PSP کاشت/NN پھلنے/VBI
+‌پھولنے/VBI کے/PSP باعث/NN توجہ/NN نصیب/NN ہوئی/VBF  ۔/PU  آج/NN
+ساحلی/JJ علاقے/NN کا/PSP مغربی/JJ حصہ/NN تیزی/NN سے/PSP ترقی/NN
+کر/VBF رہا/AUXP ہے/AUXT اور/CC ہنڈورس/NNP کا/PSP سب/Q سے/PSP
+بڑا/JJ صنعتی/JJ علاقہ/NN یہی/PDM ہے/VBF  ۔/PU  وہاں/NN قدرتی/JJ
+پیداوار/NN کثرت/NN سے/PSP ہوتی/VBF اور/CC دوسرے/OD علاقوں/NN
+کی/PSP نسبت/NN بےشمار/JJ تنوع/NN بھی/PRT رکھتی/VBF ہے/AUXT  ۔/PU 
+ 
